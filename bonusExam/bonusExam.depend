@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1731918104 source:d:\mohamed\iti\tasks\bonusexam\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

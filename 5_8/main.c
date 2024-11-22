@@ -169,3 +169,15 @@ int main()
 
     return 0;
 }
+
+/*
+131
+//baaaasem
+              for(int i=0;i<last-current;i++)
+              {
+                  *(pCurrent+i)=*(pCurrent+i+1);
+                  printf("%c",*(pCurrent+i));
+              }
+              pLast--;
+              last--;
+//basem*/

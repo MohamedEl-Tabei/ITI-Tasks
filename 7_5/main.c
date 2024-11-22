@@ -94,7 +94,7 @@ char* lineEditor(int _size,int x,int y,int startKey,int endKey)
             flag=1;
             break;
         default:
-            if(ch<=endKey&&ch>=startKey)
+            if((int)ch<=endKey&&(int)ch>=startKey)
             {
                 printf("%c",ch);
                 *currentPtr=ch;
@@ -127,7 +127,7 @@ char* lineEditor(int _size,int x,int y,int startKey,int endKey)
 struct Employee
 {
     int ssn;
-    char *name[30];
+    char *name[10];
     int age;
     int salary;
     int commission;
