@@ -28,7 +28,7 @@ public:
     {
         if(first<0)
             first=last=0;
-        if(!isFull())
+        else if(!isFull())
         {
 
             last++;
@@ -53,6 +53,8 @@ public:
                 arr[i]=arr[i+1];
             }
             last--;
+            if(last==-1)
+                first=-1;
             return x;
         }
         else
@@ -64,11 +66,11 @@ public:
 
         if(isEmpty())
         {
-            cout<<"Empty !!!"<<endl;
+            cout<<"\nEmpty !!!"<<endl;
         }
         else
         {
-            for(int i=first; i<=last; i++)
+            for(int i=first; i<last; i++)
                 cout<<arr[i]<<"  ";
         }
     }
@@ -84,14 +86,12 @@ int main()
     //3- implement Shift Queue
 
     Queue q(4);
-    q.Enqueue(1);
-    q.Enqueue(2);
-
-    q.Enqueue(3);
-    q.Enqueue(4);
-    q.Enqueue(5);
-
-
+    q.ViewQueue();
+    for(int i=0; i<10; i++)
+        q.Enqueue(i);
+    q.ViewQueue();
+    for(int i=0; i<10; i++)
+        q.Dequeue();
     q.ViewQueue();
 
     return 0;
