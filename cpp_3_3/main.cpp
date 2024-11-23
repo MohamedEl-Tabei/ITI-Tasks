@@ -14,7 +14,7 @@ private:
     }
     int isFull()
     {
-        return last==sizeQ;
+        return last==sizeQ-1;
     }
 public:
     Queue(int _sizeQ)
@@ -26,20 +26,14 @@ public:
     }
     int Enqueue(int x)
     {
-        if(first<0)
+        if(isEmpty())
             first=last=0;
         else if(!isFull())
-        {
-
             last++;
-        }
-        if(last<sizeQ)
-        {
-            arr[last]=x;
-            return x;
-        }
         else
             return -99999;
+        arr[last]=x;
+        return x;
     }
     int Dequeue()
     {
@@ -70,7 +64,7 @@ public:
         }
         else
         {
-            for(int i=first; i<last; i++)
+            for(int i=first; i<=last; i++)
                 cout<<arr[i]<<"  ";
         }
     }
@@ -87,7 +81,7 @@ int main()
 
     Queue q(4);
     q.ViewQueue();
-    for(int i=0; i<10; i++)
+    for(int i=1; i<=5; i++)
         q.Enqueue(i);
     q.ViewQueue();
     for(int i=0; i<10; i++)
