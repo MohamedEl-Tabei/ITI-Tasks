@@ -40,7 +40,8 @@ public:
         img=oldObj.img;
     }
     //c1+c2
-    Complex operator+(const Complex right){
+    Complex operator+(const Complex right)
+    {
         Complex result;
         result.img=right.img+img;
         result.real=right.real+real;
@@ -54,13 +55,15 @@ public:
         return *this;
     }
     //++c1
-    Complex& operator++(){
+    Complex& operator++()
+    {
         real++;
         img++;
         return *this;
     }
     //c1++
-    Complex operator++(int){
+    Complex operator++(int)
+    {
         Complex result;
         result.img=img;
         result.real=real;
@@ -77,12 +80,14 @@ public:
         return result;
     }
     //c1>c2
-    int operator>(Complex right){
+    int operator>(Complex right)
+    {
 
         return real>right.real;
     }
     //(int)c1
-    operator int(){
+    operator int()
+    {
         return real;
     }
     //c1=c2  useless
@@ -101,29 +106,33 @@ int main()
     Complex c1(5,6), c2(5,4);
     Complex result;
     result=c1+c2;
-    cout<<result.getReal()<<"+"<<result.getImg()<<endl;
+    cout<<"result=c1+c2--->"<<result.getReal()<<"+"<<result.getImg()<<endl;
     ///////////////////////////////////////////////////////
     result+=c1;
-    cout<<result.getReal()<<"+"<<result.getImg()<<endl;
+    cout<<"result+=c1--->"<<result.getReal()<<"+"<<result.getImg()<<endl;
     ///////////////////////////////////////////////////////
     ++result;
-    cout<<result.getReal()<<"+"<<result.getImg()<<endl;
-     ///////////////////////////////////////////////////////
+    cout<<"++result--->"<<result.getReal()<<"+"<<result.getImg()<<endl;
+    ///////////////////////////////////////////////////////
+    cout<<"-------------------------------------"<<endl;
     c1=result++;
-    cout<<c1.getReal()<<"+"<<c1.getImg()<<endl;
-    cout<<result.getReal()<<"+"<<result.getImg()<<endl;
+    cout<<"c1=result++ "<<endl;
+    cout<<"c1 --> "<<c1.getReal()<<"+"<<c1.getImg()<<endl;
+    cout<<"result --> "<<result.getReal()<<"+"<<result.getImg()<<endl;
+    cout<<"-------------------------------------"<<endl;
+
     ///////////////////////////////////////////////////////
     result=c1+10;
-    cout<<result.getReal()<<"+"<<result.getImg()<<endl;
+    cout<<"result=c1+10 -->"<<result.getReal()<<"+"<<result.getImg()<<endl;
     ///////////////////////////////////////////////////////
     int x=result.getReal()>c1.getReal();
-    cout<<x<<endl;
+    cout<<"result.getReal()>c1.getReal()"<<x<<endl;
     ///////////////////////////////////////////////////////
     x=result;
-    cout<<x<<endl;
+    cout<<"x=result"<<x<<endl;
     ///////////////////////////////////////////////////////
     result=10+c1;
-    cout<<result.getReal()<<"+"<<result.getImg()<<endl;
+    cout<<"result=10+c1 --> "<<result.getReal()<<"+"<<result.getImg()<<endl;
     return 0;
 }
 
