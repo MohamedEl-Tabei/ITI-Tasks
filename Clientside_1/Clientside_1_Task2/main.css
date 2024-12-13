@@ -1,0 +1,32 @@
+/*
+Do the following CSS style for the given HTML page (run the page and see the result after each point):
+
+
+
+
+
+
+
+The page should be like that after you apply the previous styles:
+
+*/
+
+/*
+1- Make External CSS file for that:
+a. Make the font type "Lucida Calligraphy" for any p or div or span tag (use one CSS rule).
+b. h1 tag which is child from div tag to be in the center of the page.
+*/
+@font-face {
+  font-family: LucidaCalligraphy;
+  src: url("Fonts/LucidaUnicodeCalligraphy.ttf");
+}
+p,
+div,
+span {
+  font-family: LucidaCalligraphy;
+}
+div h1 {
+  text-align: center;
+}
+
+

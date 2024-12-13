@@ -1,0 +1,39 @@
+
+/* p{
+    color: red;
+}
+
+p,div{
+    color: rgb(116, 7, 7);
+}  */
+
+/*3- select p with class mainClass direct child for div with id myDiv and make it styled*/
+/* #myDiv>p.mainclass{
+
+    border: solid 1px black;
+} */
+
+/*4- select all p inside div and style them*/
+/* div p{
+    background-color: azure;
+} */
+
+/*5- select input with type text element with class myClass*/
+/* input[type="text"].myClass{
+    border: 1px solid goldenrod;
+} */
+
+/*6- select span elements after div*/
+/* div~span{
+    background-color: cadetblue;
+} */
+
+/*7- select p with class myClass*/
+/* p.myClass{
+    background-color: yellowgreen;
+} */
+
+/*8- select div with id myDiv*/
+#myDiv{
+    background-color: tomato;
+}
