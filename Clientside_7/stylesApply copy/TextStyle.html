@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>--- Text Style Optimization ---</title>
+
+    <style type="text/css">
+        table#Text {
+            width: 550px;
+            border-collapse: collapse;
+        }
+
+        table#Text tr {
+            vertical-align: top;
+        }
+
+        #PAR {
+            font-family: times new roman;
+            font-size: 11pt;
+            width: 550px;
+            border: solid 1;
+            padding: 10;
+            text-align: left;
+        }
+
+        table#Text td {
+            font-family: times new roman;
+            font-size: 11pt;
+        }
+
+    </style>
+</head>
+
+<body>
+
+    <p id="PAR">
+        Here is a paragraph of text that has various alignment characteristics that can be changed
+        dynamically. Click the radio buttons below to view combinations of text style settings.
+    </p>
+
+    <table id="Text" border="1">
+        <tr>
+            <td>
+                <b>fontFamily</b><br />
+                <input type="radio" name="Font" value="arial" checked />arial<br />
+                <input type="radio" name="Font" value="courier" />courier<br />
+                <input type="radio" name="Font" value="georgia" />georgia<br />
+                <input type="radio" name="Font" value="impact" />impact<br />
+                <input type="radio" name="Font" value="times new roman" />times new roman<br />
+                <input type="radio" name="Font" value="verdana" />verdana<br />
+            </td>
+
+            <td>
+                <b>textAlign</b><br>
+                <input type="radio" name="Align" value="left" checked />left<br />
+                <input type="radio" name="Align" value="center" />center<br />
+                <input type="radio" name="Align" value="right" />right<br />
+                <input type="radio" name="Align" value="justify" />justify<br />
+            </td>
+            <td>
+                <b>lineHeight</b><br>
+                <input type="radio" name="Height" value="normal" checked />normal<br />
+                <input type="radio" name="Height" value="10px" />10px<br />
+                <input type="radio" name="Height" value="15px" />15px<br />
+                <input type="radio" name="Height" value="1.5" />1.5<br />
+            </td>
+            <td>
+                <b>letterSpacing</b><br>
+                <input type="radio" name="Lspace" value="normal" checked />normal<br />
+                <input type="radio" name="Lspace" value="-1px" />-1px<br />
+                <input type="radio" name="Lspace" value="2px" />2px<br />
+                <input type="radio" name="Lspace" value="3px" />3px<br />
+            </td>
+            <td>
+                <b>textIndent</b><br>
+                <input type="radio" name="Indent" value="0px" checked />0px<br />
+                <input type="radio" name="Indent" value="5px" />5px<br />
+                <input type="radio" name="Indent" value="15px" />15px<br />
+                <input type="radio" name="Indent" value="25px" />25px<br />
+            </td>
+            <td>
+                <b>textTransform</b><br>
+                <input type="radio" name="Transform" value="none" checked />none<br />
+                <input type="radio" name="Transform" value="capitalize" />capitalize<br />
+                <input type="radio" name="Transform" value="uppercase" />uppercase<br />
+                <input type="radio" name="Transform" value="lowercase" />lowercase<br />
+            </td>
+            <td>
+                <b>textDecoration</b><br>
+                <input type="radio" name="Decorate" value="none" checked />none<br />
+                <input type="radio" name="Decorate" value="line-through" />line-through<br />
+                <input type="radio" name="Decorate" value="overline" />overline<br />
+                <input type="radio" name="Decorate" value="underline" />underline<br />
+            </td>
+            <td>
+                <b>textBorder</b><br>
+                <input type="radio" name="Border" value="none" checked />none<br />
+                <input type="radio" name="Border" value="dotted" />dotted<br />
+                <input type="radio" name="Border" value="dotted" />dotted<br />
+                <input type="radio" name="Border" value="double" />double<br />
+                <input type="radio" name="Border" value="groove" />groove<br />
+                <input type="radio" name="Border" value="dashed" />dashed<br />
+                <input type="radio" name="Border" value="insert" />insert<br />
+                <input type="radio" name="Border" value="solid" />solid<br />
+                <input type="radio" name="Border" value="outset" />outset<br />
+                <input type="radio" name="Border" value="ridge" />ridge<br />
+            </td>
+            <td>
+                <b>Bordercolor</b><br>
+                <input type="radio" name="BorderColor" value="black" checked />none<br />
+                <input type="radio" name="BorderColor" value="pink" />pink<br />
+                <input type="radio" name="BorderColor" value="red" />red<br />
+                <input type="radio" name="BorderColor" value="green" />green<br />
+                <input type="radio" name="BorderColor" value="blue" />blue<br />
+                <input type="radio" name="BorderColor" value="yellow" />yellow<br />
+                <input type="radio" name="BorderColor" value="purple" />purple<br />
+            </td>
+
+    </table>
+
+    <script src="script2.js"></script>
+</body>
+
+</html>

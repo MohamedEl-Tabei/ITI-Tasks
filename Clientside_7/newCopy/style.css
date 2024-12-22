@@ -1,0 +1,18 @@
+body{
+    margin: 0px;
+}
+.first-div{
+    height: 250px;
+    width: 200px;
+    background-color: black;
+    cursor: pointer;
+    margin: 10px;
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+}
