@@ -1,0 +1,11 @@
+.container-images{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    width: max-content;
+}
+body{
+    display: flex;
+    justify-content: center;
+
+}
