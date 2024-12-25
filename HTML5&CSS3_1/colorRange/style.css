@@ -1,0 +1,7 @@
+input{
+   margin-left: 20px;
+}
+label{
+    width: 50px;
+    display: inline-block;
+}

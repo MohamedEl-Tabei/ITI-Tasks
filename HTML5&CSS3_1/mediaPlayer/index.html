@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>media player</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container-audio">
+      <img src="images/cat.jpg" />
+      <audio >
+        <source src="audios/cat.mp3" />
+      </audio>
+      <div class="controls">
+        <input id="time" value="0" min="0" type="range" />
+        <div >
+          <button id="play">Play</button>
+          <button id="pause">Pause</button>
+          <button id="stop">Stop</button>
+          <button id="mute">Mute</button>
+        </div>
+      </div>
+    </div>
+    <div class="container-buttons">
+      <button id="cat">Cat</button>
+      <button id="dog">Dog</button>
+      <button id="whale">Whale</button>
+      <button id="elephant">Elephant</button>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>

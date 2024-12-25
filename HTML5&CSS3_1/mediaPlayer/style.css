@@ -1,0 +1,33 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0px;
+    height:  100vh;
+}
+input{
+    width: 100%;
+}
+.container-audio{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+img{
+    width: 250px;
+}
+.container-buttons{
+    margin-top: 20px;
+}
+.controls{
+    background-color: rgba(100, 133, 233, 0.115);
+    padding: 20px ;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    width: 200px;
+    margin-top: 15px;
+}
