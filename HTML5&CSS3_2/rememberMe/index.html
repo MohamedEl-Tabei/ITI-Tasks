@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Remeber me</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <h3>Local storage</h3>
+    <form>
+      <div>
+        <input
+          id="name"
+          type="text"
+          placeholder="name"
+          pattern="[A-Za-z]+"
+          required
+        />
+        <small>The required name only contain characters</small>
+      </div>
+      <div>
+        <input
+          id="email"
+          type="email"
+          placeholder="example@example.com"
+          pattern="[A-Za-z][A-Za-z0-9]+@[A-Za-z]+\.[A-Za-z]{2,}"
+          required
+        />
+        <small>Email only contain one special character @</small>
+      </div>
+      <div class="checkboxContainer">
+        <input type="checkbox" id="remeberMe" /><label for="remeberMe"
+          >Remeber me</label
+        >
+      </div>
+      <button type="submit">Save</button>
+    </form>
+    <script src="script.js"></script>
+  </body>
+</html>
