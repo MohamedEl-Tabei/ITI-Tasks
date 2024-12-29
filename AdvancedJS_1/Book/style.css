@@ -1,0 +1,82 @@
+body{
+    margin: 0px;
+    height: 100vh;
+    background-color: rgba(95, 158, 160, 0.107);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: Arial, Helvetica, sans-serif;
+    gap: 20px;
+}
+form{
+    padding: 25px;
+    box-shadow: 1px 1px 13px 1px;
+    background-color: rgba(95, 158, 160, 0.159);
+    display: none;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+    gap: 15px;
+    width: 40%;
+    height: 50%;
+    border-radius: 20px;
+}
+button{
+    background-color: cadetblue;
+    color: white;
+    padding: 5px 0px;
+    width: 100px;
+    border: none;
+    cursor: pointer;
+    opacity: .8;
+}
+button:hover{
+    opacity: 1;
+}
+.input-container{
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+}
+h1{
+    color: rgba(95, 158, 160, 0.532);
+
+}
+h1 span{
+    color: cadetblue;
+}
+input {
+    border: none;
+    padding: 5px;
+}
+
+input:focus-visible{
+    outline-color: cadetblue;
+    
+}
+label{
+    color: #607d8b;
+}
+small{
+    font-size: 11px; 
+    color: rgb(250, 52, 52);
+}
+table{
+    border: 1px solid cadetblue;
+    width: 50%;
+    visibility: hidden;
+}
+thead{
+    background-color: cadetblue;
+    color: white;
+}
+th,td{
+    padding: 5px;
+    text-align: center;
+    border: 1px solid cadetblue;
+}
+.delete{
+    background-color: red;
+    margin-left: 2px;
+}

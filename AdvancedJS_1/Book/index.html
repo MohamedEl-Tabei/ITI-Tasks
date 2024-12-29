@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>book</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <h1><span>Book</span> Management</h1>
+    <form id="getNumberOfBooks">
+      <div class="input-container">
+        <label for="number">Number of books</label>
+        <input type="number" id="number" />
+      </div>
+      <button type="submit">Next</button>
+    </form>
+    <form id="addBook">
+      <div class="input-container">
+        <label for="title">Title</label>
+        <input type="text" id="title" />
+      </div>
+      <div class="input-container">
+        <label for="price">Price</label>
+        <input type="number" id="price" />
+      </div>
+      <div class="input-container">
+        <label for="autherName">Auther name</label>
+        <input type="text" id="autherName" />
+      </div>
+      <div class="input-container">
+        <label for="autherEmail">Auther email</label>
+        <input type="email" id="autherEmail" />
+      </div>
+      <button type="submit">Save</button>
+    </form>
+    <table>
+      <thead>
+        <tr>
+          <th>Title</th>
+          <th>Price</th>
+          <th>Auther name</th>
+          <th>Auther email</th>
+          <th>Action</th>
+        </tr>
+        <tbody>
+
+        </tbody>
+      </thead>
+    </table>
+    <script src="script.js"></script>
+  </body>
+</html>
