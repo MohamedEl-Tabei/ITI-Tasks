@@ -61,6 +61,8 @@ label{
 small{
     font-size: 11px; 
     color: rgb(250, 52, 52);
+}.error{
+    color: rgb(250, 52, 52);
 }
 table{
     border: 1px solid cadetblue;
@@ -76,7 +78,12 @@ th,td{
     text-align: center;
     border: 1px solid cadetblue;
 }
-.delete{
-    background-color: red;
-    margin-left: 2px;
+.delete,.cancle{
+    background-color: red; margin-top: 2px;
+}
+
+
+button{
+    margin: auto;
+    display: block;
 }

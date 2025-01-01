@@ -83,6 +83,7 @@ var functions = {
   },
   addBook: function () {
     var valid = true;
+    var oldData = {};
     if (!validation.price()) valid = false;
     if (!validation.text("title")) valid = false;
     if (!validation.text("author name")) valid = false;
@@ -119,11 +120,96 @@ var functions = {
           "<td>" +
           book.author.email +
           "</td>" +
-          "<td><button>Edit</button><button class='delete'>Delete</button></td>";
+          "<td><button class='edit'>Edit</button><button class='delete'>Delete</button></td>";
         selectors.tbody.append(tr);
         selectors.tbody.parentElement.style.visibility = "visible";
+        tr.addEventListener("input", function (event) {
+          var id = event.target.id;
+          var value = event.target.value;
+          if (id == "title") book.name = value;
+          if (id == "price") book.price = value;
+          if (id == "autherName") book.author.name = value;
+          if (id == "autherEmail") book.author.email = value;
+        });
+        tr.addEventListener("click", function (event) {
+          if (event.target.className == "delete") {
+            functions.deleteBook(book.name);
+            this.remove();
+          }
+          if (event.target.className == "edit") {
+            oldData = [];
+            for (var key in book) {
+              console.log(key);
+
+              if (key == "author")
+                oldData.author = { name: book.author.name, email: book.author.email };
+              else oldData[key] = book[key];
+            }
+            tr.innerHTML =
+              "<td>" +
+              "<input type='text' id='title' value=" +
+              book.name +
+              " />" +
+              "</td>" +
+              "<td>" +
+              "<input type='number' id='price' value=" +
+              book.price +
+              " />" +
+              "</td>" +
+              "<td>" +
+              "<input type='text' id='autherName' value=" +
+              book.author.name +
+              " />" +
+              "</td>" +
+              "<td>" +
+              "<input type='email' id='autherEmail' value=" +
+              book.author.email +
+              " />" +
+              "</td>" +
+              "<td><button class='save'>Save</button><button class='cancle'>Cancle</button></td>";
+          }
+          if (event.target.className == "save") {
+            tr.innerHTML =
+              "<td>" +
+              book.name +
+              "</td>" +
+              "<td>" +
+              book.price +
+              "</td>" +
+              "<td>" +
+              book.author.name +
+              "</td>" +
+              "<td>" +
+              book.author.email +
+              "</td>" +
+              "<td><button class='edit'>Edit</button><button class='delete'>Delete</button></td>";
+          }
+          if (event.target.className == "cancle") {
+            tr.innerHTML = "";
+            for(var key in oldData){
+              book[key]=oldData[key]
+              if (key == "author")
+                tr.innerHTML = tr.innerHTML + "<td>" + oldData[key].name + "</td>"+"<td>" + oldData[key].email + "</td>";
+              else
+              tr.innerHTML = tr.innerHTML + "<td>" + oldData[key] + "</td>";
+            };
+
+            tr.innerHTML =
+              tr.innerHTML +
+              "<td><button class='edit'>Edit</button><button class='delete'>Delete</button></td>";
+          }
+        });
       });
     }
+  },
+  deleteBook: function (bName) {
+    var arr = [];
+    var topBook;
+    while (obj.books.length) {
+      topBook = obj.books.pop();
+      if (bName != topBook.name) arr.push(topBook);
+    }
+    obj.books = arr;
   },
 };
 
@@ -132,9 +218,9 @@ var onSubmitHandler = function (event) {
   var id = this.id;
   functions[id]();
 };
-var onChangeHandlr=function(){
-  functions.setErrorMessage("",this)
-}
+var onChangeHandlr = function () {
+  functions.setErrorMessage("", this);
+};
 //events
 selectors.getNumberOfBooks.addEventListener("submit", onSubmitHandler);
 selectors.addBook.addEventListener("submit", onSubmitHandler);
