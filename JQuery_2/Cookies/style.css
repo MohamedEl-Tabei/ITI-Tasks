@@ -1,0 +1,73 @@
+body{
+    margin: 0px;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+form{
+    background-color: #F3F4F6;
+    width: 50%;
+    padding: 50px;
+    border-radius: 20px;
+    gap: 20px;
+    box-shadow: 0px 0px 8px 0px;
+
+}
+button{
+    background-color: #1d87da;
+    border: none;
+    color: white;
+    width: 50%;
+    padding: 10px 0px;
+    opacity: .7;
+    margin: auto;
+    transition-duration: 1s;
+    cursor: pointer;
+    border-radius: 20px;
+}
+button:hover{
+    opacity: 1;
+}
+div,form{
+    display: flex;
+    flex-direction: column;
+}
+input{
+    width: 100%;
+    border: none;
+    padding: 8px ;
+    border-radius: 8px;
+}
+input:focus-visible{
+    box-shadow: 0px 0px 3px 0px #1d87da;
+    outline: none;
+}
+input[type="color"]{
+    padding: initial;
+}
+label{
+    width: max-content;
+    margin-right: 50px;
+}
+img{
+    width: 50px;
+    margin-right: 50px;
+}
+.row{
+    flex-direction: row;
+}
+.row input{
+    width: initial;
+    
+}
+h1{
+    color: #1d87da;
+    text-align: center;
+}
+#profileImg{
+    width: 200px;
+    margin: auto;
+}
