@@ -1,0 +1,37 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  height: 100vh;
+  display: grid;
+  color: white;
+  gap: 5px;
+  text-align: center;
+  grid-template-rows: 1fr 7fr 1fr;
+}
+
+nav,
+footer {
+  background-color: #2e4b8f;
+  padding: 25px 0px;
+}
+.sidenav {
+  background-color: #ab4610;
+  box-sizing: border-box;
+  padding: 20px;
+}
+.maincontent {
+  background-color: #527c16;
+  padding: 20px;
+  flex-grow: 1;
+}
+.content {
+  display: grid;
+  grid-template-columns: 1fr 5fr 1fr;
+  gap: 5px;
+}
+@media screen and (max-width: 600px) {
+  .content {
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr 5fr 1fr;
+  }
+}

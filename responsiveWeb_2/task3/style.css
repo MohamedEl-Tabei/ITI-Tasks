@@ -1,0 +1,42 @@
+body {
+  background-color: #1d87da;
+  height: 100vh;
+  margin: 0px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(3, 1fr);
+}
+.parent {
+  grid-row: 2/3;
+  grid-column: 2/3;
+  display: grid;
+  grid-template-areas:
+    "ch1 ch2 ch2"
+    "ch1 ch3 ch4"
+    "ch5 ch5 ch4";
+  gap: 5px;
+  height: 500px;
+  width: 500px;
+  rotate: 45deg;
+}
+
+.children {
+  background-color: #333333;
+  color: white;
+}
+
+.ch1 {
+  grid-area: ch1;
+}
+.ch2 {
+  grid-area: ch2;
+}
+.ch3 {
+  grid-area: ch3;
+}
+.ch4 {
+  grid-area: ch4;
+}
+.ch5 {
+  grid-area: ch5;
+}
