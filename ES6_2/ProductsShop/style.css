@@ -1,0 +1,12 @@
+.form-check,
+.form-select {
+  width: 150px;
+}
+#sideBar {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.card {
+  width: 350px;
+}
