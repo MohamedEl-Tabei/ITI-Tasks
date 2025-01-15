@@ -7,7 +7,7 @@ const obj = { name: "", address: "", age: 0 };
 
 const proxyHandler = {
   set: (target, prop, value, prox) => {
-    //target={...obj}
+    //target=obj
     //prop=targetProperty
     //prox= {target , handler}
     if (!target.hasOwnProperty(prop)) throw "Invalid property";
