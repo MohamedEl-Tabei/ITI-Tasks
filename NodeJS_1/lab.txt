@@ -1,0 +1,67 @@
+# Command Line Contact Manager (Custom CLI Implementation)
+
+## Overview
+
+Create a command-line interface (CLI) application that manages contacts, using Node.js built-in features.
+
+## Core Features
+
+1. Add a contact:
+
+```
+# ----------------------------------- valid ---------------------------------- #
+npm run dev add name "Ahmed" phone "01234567890" email "ahmed@example.com"
+# ---------------------------------- invalid --------------------------------- #
+npm run dev add name "Ahmed" phone "01234567890" email "ahmedexample.com"
+npm run dev add name "Ahmed" phone "01234567890" email "ahmed@examplecom"
+npm run dev add name "2hmed" phone "01234567890" email "ahmed@example.com"
+npm run dev add name "Ahmed" phone "1234567890" email "ahmed@example.com"
+```
+
+2. List all contacts:
+
+```
+npm run dev list
+```
+
+3. Search for a contact:
+
+```
+npm run dev search name "ahmed" 
+```
+
+4. Delete a contact:
+
+```
+npm run dev delete name "mOhamed"
+```
+
+5. All requested contact data should be passed and validated
+
+6. Handle the case if a wrong option other than add, list, search, delete and edit
+   is passed or when none is.
+
+## Bonus Points
+
+1. Parser Enhancements:
+
+- Help command showing usage instructions
+
+```
+npm run dev help
+```
+
+2. Feature Enhancements:
+```
+npm run dev edit name "Ahmed" phone "01134567890"
+```
+- Implement contact editing
+- Search by any contact field
+```
+npm run dev search name "ahmeed" 
+npm run dev search phone "01134567890" 
+npm run dev search email "m1@gmail.com" 
+
+```
+
+
