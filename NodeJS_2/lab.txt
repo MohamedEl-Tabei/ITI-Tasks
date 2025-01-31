@@ -1,0 +1,17 @@
+Create a node server with the following routes:
+
+- ```/``` to display home page
+- GET ```/contacts``` to list all contacts in browser
+- POST ```/contacts``` to add new contacts 
+
+
+*Code must be organized in modules (module type is up to you)
+*Add id key to contacts
+*Keep file based storage as lab 1
+*Contact id is unique
+*id generation is server responsibility 
+*Throw error when accessing undefined route
+
+Bonus
+Display in html template
+
