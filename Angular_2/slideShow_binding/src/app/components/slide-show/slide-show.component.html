@@ -1,0 +1,26 @@
+<div
+  class="container shadow alert carousel carousel-dark slide w-50 d-flex align-items-center"
+>
+  <div class="carousel-indicators">
+    <button
+      (click)="onBtn()"
+      type="button"
+      class="btn btn-light shadow p-0 btn-lg rounded-circle"
+    >
+      <fa-icon [icon]="slideShowStatus"></fa-icon>
+    </button>
+  </div>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="images/{{ imgNumber }}.jpg" class="d-block" alt="..." />
+    </div>
+  </div>
+
+  <div class="carousel-indicators"></div>
+  <button class="carousel-control-prev" type="button" (click)="onPrev()">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+  </button>
+  <button class="carousel-control-next" type="button" (click)="onNext()">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+  </button>
+</div>

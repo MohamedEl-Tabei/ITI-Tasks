@@ -1,0 +1,14 @@
+<div class="container shadow alert d-flex flex-column gap-3 w-50" role="alert">
+  <div class="form-floating">
+    <textarea
+      class="form-control"
+      placeholder="Leave a comment here"
+      id="floatingTextarea"
+      [(ngModel)]="text"
+    ></textarea>
+    <label for="floatingTextarea">Text</label>
+  </div>
+  <button (click)="onReset()" class="btn btn-primary">Reset</button>
+  <hr />
+  <p>{{ text }}</p>
+</div>
