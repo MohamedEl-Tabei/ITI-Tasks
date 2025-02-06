@@ -1,0 +1,8 @@
+<div class="w-50 m-auto shadow p-3 mt-5">
+  <app-register
+    [studentLength]="students.length"
+    (onAddNewStudent)="onAddNewStudent($event)"
+  ></app-register>
+  <hr />
+  <app-studen-table [students]="students"></app-studen-table>
+</div>
