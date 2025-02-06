@@ -1,0 +1,55 @@
+<div>
+  <div class="mb-3">
+    <div class="input-group mb-3">
+      <div class="form-floating">
+        <input
+          type="text"
+          class="form-control"
+          id="floatingInputGroup1"
+          placeholder="Student Name"
+          banana
+          box
+          [(ngModel)]="name //bananabox"
+        />
+        <label for="floatingInputGroup1">Student Name</label>
+      </div>
+
+      @if (name.length > 3 ) {
+      <div class="valid-feedback d-flex">Valid name</div>
+      } @else {
+      <div class="invalid-feedback d-flex">Invalid name</div>
+      }
+    </div>
+    <div class="input-group mb-3">
+      <div class="form-floating">
+        <input
+          type="number"
+          class="form-control"
+          id="floatingInputGroup2"
+          placeholder="Student Age"
+          [(ngModel)]="age //bananabox"
+        />
+        <label for="floatingInputGroup2">Student Age</label>
+      </div>
+      <div
+        [class]="
+          +age > 20 && +age < 40
+            ? 'valid-feedback d-flex'
+            : 'invalid-feedback d-flex'
+        "
+      >
+        <div *ngIf="+age > 20 && +age < 40; then valid; else invalid"></div>
+      </div>
+    </div>
+  </div>
+
+  <button
+    type="submit"
+    class="btn btn-primary btn-large w-100"
+    (click)="addNewUser()"
+  >
+    Add
+  </button>
+</div>
+<ng-template #invalid>Invalid age</ng-template>
+<ng-template #valid>Valid age</ng-template>
