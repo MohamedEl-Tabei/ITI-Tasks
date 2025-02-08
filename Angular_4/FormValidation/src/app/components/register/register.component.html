@@ -1,0 +1,30 @@
+<form (ngSubmit)="onAddStudent()" [formGroup]="form">
+  <div class="mb-3">
+    <label for="Name" class="form-label">Name</label>
+    <input formControlName="name" type="text" class="form-control" id="Name" />
+    @if(isInValidName){
+    <div class="invalid-feedback d-flex">Invalid Name</div>
+    }
+  </div>
+  <div class="mb-3">
+    <label for="Age" class="form-label">Age</label>
+    <input formControlName="age" type="number" class="form-control" id="Age" />
+    @if(isInValidAge){
+    <div class="invalid-feedback d-flex">Invalid Age</div>
+    }
+  </div>
+
+  <button
+    [disabled]="
+      form.controls.age.value == null ||
+      form.controls.name.value == null ||
+      form.controls.name.value == '' ||
+      form.invalid
+    "
+    type="submit"
+    class="btn btn-dark w-100"
+    (click)="onAddStudent()"
+  >
+    Add
+  </button>
+</form>
