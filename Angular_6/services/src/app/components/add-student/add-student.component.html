@@ -1,0 +1,25 @@
+<div class="alert mt-5 mx-auto w-50 border-0 p-5 shadow">
+  <div class="mb-3">
+    <label for="Name" class="form-label">Name</label>
+    <input #name type="text" class="form-control" id="Name" />
+  </div>
+  <div class="mb-3">
+    <label for="Email" class="form-label">Email</label>
+    <input #email type="text" class="form-control" id="Email" />
+  </div>
+  <div class="mb-3">
+    <label for="Phone" class="form-label">Phone</label>
+    <input #phone type="text" class="form-control" id="Phone" />
+  </div>
+  <button
+    type="button"
+    (click)="add(name.value, phone.value, email.value)"
+    class="btn btn-primary w-100"
+  >
+    Add
+  </button>
+
+  <p class="text-danger text-center mt-2 w-100">
+    @if (showMessage) { All data required}
+  </p>
+</div>

@@ -1,0 +1,20 @@
+@if (student) {
+<div
+  appCard
+  class="card m-auto mt-5 shadow border-0"
+  style="width: 18rem; height: 18rem"
+>
+  <div class="card-body d-flex flex-column justify-content-evenly">
+    <h5 class="card-title text-center">{{ student.name }}</h5>
+    <h6 class="card-subtitle mb-2 text-body-secondary p-3">
+      <strong>Id:</strong> {{ student.id }}
+    </h6>
+    <h6 class="card-subtitle mb-2 text-body-secondary p-3">
+      <strong>Email:</strong> {{ student.email }}
+    </h6>
+    <h6 class="card-subtitle mb-2 text-body-secondary p-3">
+      <strong>Phone:</strong> {{ student.phone }}
+    </h6>
+  </div>
+</div>
+}

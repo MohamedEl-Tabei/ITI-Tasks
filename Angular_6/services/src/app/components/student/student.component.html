@@ -1,0 +1,12 @@
+<div appCard class="card" style="width: 18rem; height: 18rem">
+  <div class="card-body d-flex flex-column justify-content-evenly">
+    <h5 class="card-title text-center">{{ data.name }}</h5>
+    <h6 class="card-subtitle mb-2 text-body-secondary text-center">
+      {{ data.phone }}
+    </h6>
+
+    <a routerLink="{{ data.id }}" class="card-link text-center">{{
+      data.email
+    }}</a>
+  </div>
+</div>

@@ -1,0 +1,12 @@
+Crs_Name,Crs_Duration,Crs_Id,Top_Name
+html,20,100,Web
+web service,20,700,Web
+win_xp,20,1100,Operating System
+asp.net,60,1000,Web
+c progamming,60,200,Programming
+c#,80,600,Programming
+java,60,800,Programming
+oop,80,300,Programming
+oracle,50,900,DB
+sql server,60,500,DB
+unix,50,400,Operating System

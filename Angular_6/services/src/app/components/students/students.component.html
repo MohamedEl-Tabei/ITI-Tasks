@@ -1,0 +1,14 @@
+@if (connected) {
+<div class="d-flex flex-wrap gap-5 my-5 m-auto container">
+  @for (student of students; track student.id) {
+  <app-student [data]="student"></app-student>
+  }
+</div>
+} @else {
+<div class="container mt-5 text-center alert alert-warning d-flex">
+  <div class="text-start m-auto">
+    <h3 class="mb-3">Please, Navigates to the directory "\app\data"</h3>
+    <h3>Then, Run "npx json-server data.json"</h3>
+  </div>
+</div>
+}

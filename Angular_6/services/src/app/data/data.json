@@ -1,0 +1,40 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "Mohamed",
+      "phone": "01012345678",
+      "email": "Mohamed@gmail.com"
+    },
+    {
+      "id": "2",
+      "name": "Ahmed",
+      "phone": "01112345678",
+      "email": "Ahmed@gmail.com"
+    },
+    {
+      "id": "3",
+      "name": "Ali",
+      "phone": "01212345678",
+      "email": "Ali@gmail.com"
+    },
+    {
+      "id": "4",
+      "name": "Basem",
+      "phone": "01312345678",
+      "email": "Basem@gmail.com"
+    },
+    {
+      "id": "5",
+      "name": "Karim",
+      "phone": "01412345678",
+      "email": "Karim@gmail.com"
+    },
+    {
+      "id": "6",
+      "name": "Omer",
+      "phone": "01512345678",
+      "email": "Omer@gmail.com"
+    }
+  ]
+}

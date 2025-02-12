@@ -1,0 +1,10 @@
+.addStudent {
+  bottom: 20px;
+  right: 20px;
+  position: fixed;
+  font-weight: bold;
+  width: 60px;
+  height: 60px;
+  border-radius: 50% !important;
+  padding: 0px;
+}
