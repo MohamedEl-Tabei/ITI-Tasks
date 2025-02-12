@@ -1,12 +1,68 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\Mohamed\\ITI\\ITI-Tasks\\BI_Lab_2\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF93B2B5-A536-4F2F-BFC8-EBA6437F68C0}|BI_Lab_2\\BI_Lab_2.dwproj|E:\\Mohamed\\ITI\\ITI-Tasks\\BI_Lab_2\\BI_Lab_2\\Sales 1.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{AF93B2B5-A536-4F2F-BFC8-EBA6437F68C0}|BI_Lab_2\\BI_Lab_2.dwproj|solutionrelative:BI_Lab_2\\Sales 1.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF93B2B5-A536-4F2F-BFC8-EBA6437F68C0}|BI_Lab_2\\BI_Lab_2.dwproj|E:\\Mohamed\\ITI\\ITI-Tasks\\BI_Lab_2\\BI_Lab_2\\Product Cube.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{AF93B2B5-A536-4F2F-BFC8-EBA6437F68C0}|BI_Lab_2\\BI_Lab_2.dwproj|solutionrelative:BI_Lab_2\\Product Cube.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF93B2B5-A536-4F2F-BFC8-EBA6437F68C0}|BI_Lab_2\\BI_Lab_2.dwproj|E:\\Mohamed\\ITI\\ITI-Tasks\\BI_Lab_2\\BI_Lab_2\\Prod_Cust.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{AF93B2B5-A536-4F2F-BFC8-EBA6437F68C0}|BI_Lab_2\\BI_Lab_2.dwproj|solutionrelative:BI_Lab_2\\Prod_Cust.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sales 1.cube [Design]",
+              "DocumentMoniker": "E:\\Mohamed\\ITI\\ITI-Tasks\\BI_Lab_2\\BI_Lab_2\\Sales 1.cube",
+              "RelativeDocumentMoniker": "BI_Lab_2\\Sales 1.cube",
+              "ToolTip": "E:\\Mohamed\\ITI\\ITI-Tasks\\BI_Lab_2\\BI_Lab_2\\Sales 1.cube [Design]",
+              "RelativeToolTip": "BI_Lab_2\\Sales 1.cube [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-12T16:04:22.156Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Prod_Cust.cube [Design]",
+              "DocumentMoniker": "E:\\Mohamed\\ITI\\ITI-Tasks\\BI_Lab_2\\BI_Lab_2\\Prod_Cust.cube",
+              "RelativeDocumentMoniker": "BI_Lab_2\\Prod_Cust.cube",
+              "ToolTip": "E:\\Mohamed\\ITI\\ITI-Tasks\\BI_Lab_2\\BI_Lab_2\\Prod_Cust.cube [Design]",
+              "RelativeToolTip": "BI_Lab_2\\Prod_Cust.cube [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-12T16:04:19.964Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product Cube.cube [Design]",
+              "DocumentMoniker": "E:\\Mohamed\\ITI\\ITI-Tasks\\BI_Lab_2\\BI_Lab_2\\Product Cube.cube",
+              "RelativeDocumentMoniker": "BI_Lab_2\\Product Cube.cube",
+              "ToolTip": "E:\\Mohamed\\ITI\\ITI-Tasks\\BI_Lab_2\\BI_Lab_2\\Product Cube.cube [Design]",
+              "RelativeToolTip": "BI_Lab_2\\Product Cube.cube [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-12T16:02:39.405Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
