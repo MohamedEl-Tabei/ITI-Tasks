@@ -1,0 +1,15 @@
+E:\Mohamed\ITI\ITI-Tasks\C#_2\reverse\bin\Debug\net8.0\reverse.exe
+E:\Mohamed\ITI\ITI-Tasks\C#_2\reverse\bin\Debug\net8.0\reverse.deps.json
+E:\Mohamed\ITI\ITI-Tasks\C#_2\reverse\bin\Debug\net8.0\reverse.runtimeconfig.json
+E:\Mohamed\ITI\ITI-Tasks\C#_2\reverse\bin\Debug\net8.0\reverse.dll
+E:\Mohamed\ITI\ITI-Tasks\C#_2\reverse\bin\Debug\net8.0\reverse.pdb
+E:\Mohamed\ITI\ITI-Tasks\C#_2\reverse\obj\Debug\net8.0\reverse.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mohamed\ITI\ITI-Tasks\C#_2\reverse\obj\Debug\net8.0\reverse.AssemblyInfoInputs.cache
+E:\Mohamed\ITI\ITI-Tasks\C#_2\reverse\obj\Debug\net8.0\reverse.AssemblyInfo.cs
+E:\Mohamed\ITI\ITI-Tasks\C#_2\reverse\obj\Debug\net8.0\reverse.csproj.CoreCompileInputs.cache
+E:\Mohamed\ITI\ITI-Tasks\C#_2\reverse\obj\Debug\net8.0\reverse.sourcelink.json
+E:\Mohamed\ITI\ITI-Tasks\C#_2\reverse\obj\Debug\net8.0\reverse.dll
+E:\Mohamed\ITI\ITI-Tasks\C#_2\reverse\obj\Debug\net8.0\refint\reverse.dll
+E:\Mohamed\ITI\ITI-Tasks\C#_2\reverse\obj\Debug\net8.0\reverse.pdb
+E:\Mohamed\ITI\ITI-Tasks\C#_2\reverse\obj\Debug\net8.0\reverse.genruntimeconfig.cache
+E:\Mohamed\ITI\ITI-Tasks\C#_2\reverse\obj\Debug\net8.0\ref\reverse.dll

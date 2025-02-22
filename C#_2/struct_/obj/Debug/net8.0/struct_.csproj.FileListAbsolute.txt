@@ -1,0 +1,15 @@
+E:\Mohamed\ITI\ITI-Tasks\C#_2\struct_\bin\Debug\net8.0\struct_.exe
+E:\Mohamed\ITI\ITI-Tasks\C#_2\struct_\bin\Debug\net8.0\struct_.deps.json
+E:\Mohamed\ITI\ITI-Tasks\C#_2\struct_\bin\Debug\net8.0\struct_.runtimeconfig.json
+E:\Mohamed\ITI\ITI-Tasks\C#_2\struct_\bin\Debug\net8.0\struct_.dll
+E:\Mohamed\ITI\ITI-Tasks\C#_2\struct_\bin\Debug\net8.0\struct_.pdb
+E:\Mohamed\ITI\ITI-Tasks\C#_2\struct_\obj\Debug\net8.0\struct_.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mohamed\ITI\ITI-Tasks\C#_2\struct_\obj\Debug\net8.0\struct_.AssemblyInfoInputs.cache
+E:\Mohamed\ITI\ITI-Tasks\C#_2\struct_\obj\Debug\net8.0\struct_.AssemblyInfo.cs
+E:\Mohamed\ITI\ITI-Tasks\C#_2\struct_\obj\Debug\net8.0\struct_.csproj.CoreCompileInputs.cache
+E:\Mohamed\ITI\ITI-Tasks\C#_2\struct_\obj\Debug\net8.0\struct_.sourcelink.json
+E:\Mohamed\ITI\ITI-Tasks\C#_2\struct_\obj\Debug\net8.0\struct_.dll
+E:\Mohamed\ITI\ITI-Tasks\C#_2\struct_\obj\Debug\net8.0\refint\struct_.dll
+E:\Mohamed\ITI\ITI-Tasks\C#_2\struct_\obj\Debug\net8.0\struct_.pdb
+E:\Mohamed\ITI\ITI-Tasks\C#_2\struct_\obj\Debug\net8.0\struct_.genruntimeconfig.cache
+E:\Mohamed\ITI\ITI-Tasks\C#_2\struct_\obj\Debug\net8.0\ref\struct_.dll
