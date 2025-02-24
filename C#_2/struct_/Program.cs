@@ -1,4 +1,6 @@
-﻿namespace struct_
+﻿using System.Text.RegularExpressions;
+
+namespace struct_
 {
     internal class Program
     {
@@ -10,6 +12,9 @@
                 #region name
                 string name="";
                 do {
+                    //Regex.Match(name,Reg)
+                    //String.IsNullOrEmpty(name)
+                    //String.IsNullOrWhiteSpace(name)
                     try
                     {
                         Console.Write("Name: ");

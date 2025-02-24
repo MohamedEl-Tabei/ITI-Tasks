@@ -1,0 +1,15 @@
+E:\Mohamed\ITI\ITI-Tasks\C#_3\C#_3\bin\Debug\net8.0\C#_3.exe
+E:\Mohamed\ITI\ITI-Tasks\C#_3\C#_3\bin\Debug\net8.0\C#_3.deps.json
+E:\Mohamed\ITI\ITI-Tasks\C#_3\C#_3\bin\Debug\net8.0\C#_3.runtimeconfig.json
+E:\Mohamed\ITI\ITI-Tasks\C#_3\C#_3\bin\Debug\net8.0\C#_3.dll
+E:\Mohamed\ITI\ITI-Tasks\C#_3\C#_3\bin\Debug\net8.0\C#_3.pdb
+E:\Mohamed\ITI\ITI-Tasks\C#_3\C#_3\obj\Debug\net8.0\C#_3.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mohamed\ITI\ITI-Tasks\C#_3\C#_3\obj\Debug\net8.0\C#_3.AssemblyInfoInputs.cache
+E:\Mohamed\ITI\ITI-Tasks\C#_3\C#_3\obj\Debug\net8.0\C#_3.AssemblyInfo.cs
+E:\Mohamed\ITI\ITI-Tasks\C#_3\C#_3\obj\Debug\net8.0\C#_3.csproj.CoreCompileInputs.cache
+E:\Mohamed\ITI\ITI-Tasks\C#_3\C#_3\obj\Debug\net8.0\C#_3.sourcelink.json
+E:\Mohamed\ITI\ITI-Tasks\C#_3\C#_3\obj\Debug\net8.0\C#_3.dll
+E:\Mohamed\ITI\ITI-Tasks\C#_3\C#_3\obj\Debug\net8.0\refint\C#_3.dll
+E:\Mohamed\ITI\ITI-Tasks\C#_3\C#_3\obj\Debug\net8.0\C#_3.pdb
+E:\Mohamed\ITI\ITI-Tasks\C#_3\C#_3\obj\Debug\net8.0\C#_3.genruntimeconfig.cache
+E:\Mohamed\ITI\ITI-Tasks\C#_3\C#_3\obj\Debug\net8.0\ref\C#_3.dll

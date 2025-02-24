@@ -21,7 +21,7 @@ namespace struct_
         {
             count = 0;
         }
-        public Employee()// ملوش لازمه
+        public Employee()
         {
             count++;
             id = count;
