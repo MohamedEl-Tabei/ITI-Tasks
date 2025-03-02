@@ -1,0 +1,15 @@
+E:\Mohamed\ITI\ITI-Tasks\C#_4\3DPoint\bin\Debug\net8.0\3DPoint.exe
+E:\Mohamed\ITI\ITI-Tasks\C#_4\3DPoint\bin\Debug\net8.0\3DPoint.deps.json
+E:\Mohamed\ITI\ITI-Tasks\C#_4\3DPoint\bin\Debug\net8.0\3DPoint.runtimeconfig.json
+E:\Mohamed\ITI\ITI-Tasks\C#_4\3DPoint\bin\Debug\net8.0\3DPoint.dll
+E:\Mohamed\ITI\ITI-Tasks\C#_4\3DPoint\bin\Debug\net8.0\3DPoint.pdb
+E:\Mohamed\ITI\ITI-Tasks\C#_4\3DPoint\obj\Debug\net8.0\3DPoint.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mohamed\ITI\ITI-Tasks\C#_4\3DPoint\obj\Debug\net8.0\3DPoint.AssemblyInfoInputs.cache
+E:\Mohamed\ITI\ITI-Tasks\C#_4\3DPoint\obj\Debug\net8.0\3DPoint.AssemblyInfo.cs
+E:\Mohamed\ITI\ITI-Tasks\C#_4\3DPoint\obj\Debug\net8.0\3DPoint.csproj.CoreCompileInputs.cache
+E:\Mohamed\ITI\ITI-Tasks\C#_4\3DPoint\obj\Debug\net8.0\3DPoint.sourcelink.json
+E:\Mohamed\ITI\ITI-Tasks\C#_4\3DPoint\obj\Debug\net8.0\3DPoint.dll
+E:\Mohamed\ITI\ITI-Tasks\C#_4\3DPoint\obj\Debug\net8.0\refint\3DPoint.dll
+E:\Mohamed\ITI\ITI-Tasks\C#_4\3DPoint\obj\Debug\net8.0\3DPoint.pdb
+E:\Mohamed\ITI\ITI-Tasks\C#_4\3DPoint\obj\Debug\net8.0\3DPoint.genruntimeconfig.cache
+E:\Mohamed\ITI\ITI-Tasks\C#_4\3DPoint\obj\Debug\net8.0\ref\3DPoint.dll

@@ -1,0 +1,15 @@
+E:\Mohamed\ITI\ITI-Tasks\ExamSystem\ExamSystem\bin\Debug\net8.0\ExamSystem.exe
+E:\Mohamed\ITI\ITI-Tasks\ExamSystem\ExamSystem\bin\Debug\net8.0\ExamSystem.deps.json
+E:\Mohamed\ITI\ITI-Tasks\ExamSystem\ExamSystem\bin\Debug\net8.0\ExamSystem.runtimeconfig.json
+E:\Mohamed\ITI\ITI-Tasks\ExamSystem\ExamSystem\bin\Debug\net8.0\ExamSystem.dll
+E:\Mohamed\ITI\ITI-Tasks\ExamSystem\ExamSystem\bin\Debug\net8.0\ExamSystem.pdb
+E:\Mohamed\ITI\ITI-Tasks\ExamSystem\ExamSystem\obj\Debug\net8.0\ExamSystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mohamed\ITI\ITI-Tasks\ExamSystem\ExamSystem\obj\Debug\net8.0\ExamSystem.AssemblyInfoInputs.cache
+E:\Mohamed\ITI\ITI-Tasks\ExamSystem\ExamSystem\obj\Debug\net8.0\ExamSystem.AssemblyInfo.cs
+E:\Mohamed\ITI\ITI-Tasks\ExamSystem\ExamSystem\obj\Debug\net8.0\ExamSystem.csproj.CoreCompileInputs.cache
+E:\Mohamed\ITI\ITI-Tasks\ExamSystem\ExamSystem\obj\Debug\net8.0\ExamSystem.sourcelink.json
+E:\Mohamed\ITI\ITI-Tasks\ExamSystem\ExamSystem\obj\Debug\net8.0\ExamSystem.dll
+E:\Mohamed\ITI\ITI-Tasks\ExamSystem\ExamSystem\obj\Debug\net8.0\refint\ExamSystem.dll
+E:\Mohamed\ITI\ITI-Tasks\ExamSystem\ExamSystem\obj\Debug\net8.0\ExamSystem.pdb
+E:\Mohamed\ITI\ITI-Tasks\ExamSystem\ExamSystem\obj\Debug\net8.0\ExamSystem.genruntimeconfig.cache
+E:\Mohamed\ITI\ITI-Tasks\ExamSystem\ExamSystem\obj\Debug\net8.0\ref\ExamSystem.dll

@@ -1,0 +1,1 @@
+Which keyword is used to prevent a class from being inherited in C#?*5*sealed,static,final,private*sealed`What is the default value of a boolean variable in C#?*5*False,True*False`What is the main use of delegates in C#?*5*To handle exceptions,To allow methods to be passed as parameters,To define classes,To manage memory*To allow methods to be passed as parameters

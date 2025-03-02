@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "E:\\Mohamed\\ITI\\ITI-Tasks\\C#_4\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E090B634-036B-43B9-BB24-98FE85500926}|C#_4\\C#_4.csproj|e:\\mohamed\\iti\\iti-tasks\\c#_4\\c#_4\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E090B634-036B-43B9-BB24-98FE85500926}|C#_4\\C#_4.csproj|solutionrelative:c#_4\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80E8DA29-822A-471E-8DFE-4D5959324D26}|3DPoint\\3DPoint.csproj|e:\\mohamed\\iti\\iti-tasks\\c#_4\\3dpoint\\point3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80E8DA29-822A-471E-8DFE-4D5959324D26}|3DPoint\\3DPoint.csproj|solutionrelative:3dpoint\\point3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78489599-E640-4FE0-B122-EA728DADB8FA}|task 9\\task 9.csproj|e:\\mohamed\\iti\\iti-tasks\\c#_4\\task 9\\nic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78489599-E640-4FE0-B122-EA728DADB8FA}|task 9\\task 9.csproj|solutionrelative:task 9\\nic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E090B634-036B-43B9-BB24-98FE85500926}|C#_4\\C#_4.csproj|e:\\mohamed\\iti\\iti-tasks\\c#_4\\c#_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E090B634-036B-43B9-BB24-98FE85500926}|C#_4\\C#_4.csproj|solutionrelative:c#_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78489599-E640-4FE0-B122-EA728DADB8FA}|task 9\\task 9.csproj|e:\\mohamed\\iti\\iti-tasks\\c#_4\\task 9\\duration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78489599-E640-4FE0-B122-EA728DADB8FA}|task 9\\task 9.csproj|solutionrelative:task 9\\duration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E090B634-036B-43B9-BB24-98FE85500926}|C#_4\\C#_4.csproj|e:\\mohamed\\iti\\iti-tasks\\c#_4\\c#_4\\hiredate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E090B634-036B-43B9-BB24-98FE85500926}|C#_4\\C#_4.csproj|solutionrelative:c#_4\\hiredate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +34,79 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "Point3D.cs",
+              "DocumentMoniker": "E:\\Mohamed\\ITI\\ITI-Tasks\\C#_4\\3DPoint\\Point3D.cs",
+              "RelativeDocumentMoniker": "3DPoint\\Point3D.cs",
+              "ToolTip": "E:\\Mohamed\\ITI\\ITI-Tasks\\C#_4\\3DPoint\\Point3D.cs",
+              "RelativeToolTip": "3DPoint\\Point3D.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T14:09:03.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NIC.cs",
+              "DocumentMoniker": "E:\\Mohamed\\ITI\\ITI-Tasks\\C#_4\\task 9\\NIC.cs",
+              "RelativeDocumentMoniker": "task 9\\NIC.cs",
+              "ToolTip": "E:\\Mohamed\\ITI\\ITI-Tasks\\C#_4\\task 9\\NIC.cs",
+              "RelativeToolTip": "task 9\\NIC.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T14:08:26.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Duration.cs",
+              "DocumentMoniker": "E:\\Mohamed\\ITI\\ITI-Tasks\\C#_4\\task 9\\Duration.cs",
+              "RelativeDocumentMoniker": "task 9\\Duration.cs",
+              "ToolTip": "E:\\Mohamed\\ITI\\ITI-Tasks\\C#_4\\task 9\\Duration.cs",
+              "RelativeToolTip": "task 9\\Duration.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T14:07:50.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HireDate.cs",
+              "DocumentMoniker": "E:\\Mohamed\\ITI\\ITI-Tasks\\C#_4\\C#_4\\HireDate.cs",
+              "RelativeDocumentMoniker": "C#_4\\HireDate.cs",
+              "ToolTip": "E:\\Mohamed\\ITI\\ITI-Tasks\\C#_4\\C#_4\\HireDate.cs",
+              "RelativeToolTip": "C#_4\\HireDate.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T14:07:42.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Mohamed\\ITI\\ITI-Tasks\\C#_4\\C#_4\\Program.cs",
               "RelativeDocumentMoniker": "C#_4\\Program.cs",
               "ToolTip": "E:\\Mohamed\\ITI\\ITI-Tasks\\C#_4\\C#_4\\Program.cs",
               "RelativeToolTip": "C#_4\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T11:00:46.821Z",
+              "WhenOpened": "2025-02-27T13:00:44.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\Mohamed\\ITI\\ITI-Tasks\\C#_4\\C#_4\\Employee.cs",
+              "RelativeDocumentMoniker": "C#_4\\Employee.cs",
+              "ToolTip": "E:\\Mohamed\\ITI\\ITI-Tasks\\C#_4\\C#_4\\Employee.cs",
+              "RelativeToolTip": "C#_4\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T12:41:50.023Z",
               "EditorCaption": ""
             }
           ]
