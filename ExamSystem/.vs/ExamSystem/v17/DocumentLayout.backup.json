@@ -5,26 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9DE53EE3-57A7-43C6-87D1-9D5B94ACD47D}|ExamSystem\\ExamSystem.csproj|e:\\mohamed\\iti\\iti-tasks\\examsystem\\examsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9DE53EE3-57A7-43C6-87D1-9D5B94ACD47D}|ExamSystem\\ExamSystem.csproj|solutionrelative:examsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9DE53EE3-57A7-43C6-87D1-9D5B94ACD47D}|ExamSystem\\ExamSystem.csproj|e:\\mohamed\\iti\\iti-tasks\\examsystem\\examsystem\\exams\\finalexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DE53EE3-57A7-43C6-87D1-9D5B94ACD47D}|ExamSystem\\ExamSystem.csproj|solutionrelative:examsystem\\exams\\finalexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9DE53EE3-57A7-43C6-87D1-9D5B94ACD47D}|ExamSystem\\ExamSystem.csproj|e:\\mohamed\\iti\\iti-tasks\\examsystem\\examsystem\\exams\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DE53EE3-57A7-43C6-87D1-9D5B94ACD47D}|ExamSystem\\ExamSystem.csproj|solutionrelative:examsystem\\exams\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9DE53EE3-57A7-43C6-87D1-9D5B94ACD47D}|ExamSystem\\ExamSystem.csproj|e:\\mohamed\\iti\\iti-tasks\\examsystem\\examsystem\\exams\\practicalexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DE53EE3-57A7-43C6-87D1-9D5B94ACD47D}|ExamSystem\\ExamSystem.csproj|solutionrelative:examsystem\\exams\\practicalexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9DE53EE3-57A7-43C6-87D1-9D5B94ACD47D}|ExamSystem\\ExamSystem.csproj|e:\\mohamed\\iti\\iti-tasks\\examsystem\\examsystem\\data.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{9DE53EE3-57A7-43C6-87D1-9D5B94ACD47D}|ExamSystem\\ExamSystem.csproj|solutionrelative:examsystem\\data.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9DE53EE3-57A7-43C6-87D1-9D5B94ACD47D}|ExamSystem\\ExamSystem.csproj|e:\\mohamed\\iti\\iti-tasks\\examsystem\\examsystem\\interfaces\\iexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DE53EE3-57A7-43C6-87D1-9D5B94ACD47D}|ExamSystem\\ExamSystem.csproj|solutionrelative:examsystem\\interfaces\\iexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,73 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PracticalExam.cs",
-              "DocumentMoniker": "E:\\Mohamed\\ITI\\ITI-Tasks\\ExamSystem\\ExamSystem\\Exams\\PracticalExam.cs",
-              "RelativeDocumentMoniker": "ExamSystem\\Exams\\PracticalExam.cs",
-              "ToolTip": "E:\\Mohamed\\ITI\\ITI-Tasks\\ExamSystem\\ExamSystem\\Exams\\PracticalExam.cs",
-              "RelativeToolTip": "ExamSystem\\Exams\\PracticalExam.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-02T05:04:31.432Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FinalExam.cs",
-              "DocumentMoniker": "E:\\Mohamed\\ITI\\ITI-Tasks\\ExamSystem\\ExamSystem\\Exams\\FinalExam.cs",
-              "RelativeDocumentMoniker": "ExamSystem\\Exams\\FinalExam.cs",
-              "ToolTip": "E:\\Mohamed\\ITI\\ITI-Tasks\\ExamSystem\\ExamSystem\\Exams\\FinalExam.cs",
-              "RelativeToolTip": "ExamSystem\\Exams\\FinalExam.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwB0AAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-02T05:04:30.299Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IExam.cs",
-              "DocumentMoniker": "E:\\Mohamed\\ITI\\ITI-Tasks\\ExamSystem\\ExamSystem\\Interfaces\\IExam.cs",
-              "RelativeDocumentMoniker": "ExamSystem\\Interfaces\\IExam.cs",
-              "ToolTip": "E:\\Mohamed\\ITI\\ITI-Tasks\\ExamSystem\\ExamSystem\\Interfaces\\IExam.cs",
-              "RelativeToolTip": "ExamSystem\\Interfaces\\IExam.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAgwBUAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-02T05:04:27.154Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "data.txt",
-              "DocumentMoniker": "E:\\Mohamed\\ITI\\ITI-Tasks\\ExamSystem\\ExamSystem\\data.txt",
-              "RelativeDocumentMoniker": "ExamSystem\\data.txt",
-              "ToolTip": "E:\\Mohamed\\ITI\\ITI-Tasks\\ExamSystem\\ExamSystem\\data.txt",
-              "RelativeToolTip": "ExamSystem\\data.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-03-02T05:00:41.714Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Exam.cs",
-              "DocumentMoniker": "E:\\Mohamed\\ITI\\ITI-Tasks\\ExamSystem\\ExamSystem\\Exams\\Exam.cs",
-              "RelativeDocumentMoniker": "ExamSystem\\Exams\\Exam.cs",
-              "ToolTip": "E:\\Mohamed\\ITI\\ITI-Tasks\\ExamSystem\\ExamSystem\\Exams\\Exam.cs",
-              "RelativeToolTip": "ExamSystem\\Exams\\Exam.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAiwEsAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-02T04:10:48.844Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -109,9 +24,9 @@
               "RelativeDocumentMoniker": "ExamSystem\\Program.cs",
               "ToolTip": "E:\\Mohamed\\ITI\\ITI-Tasks\\ExamSystem\\ExamSystem\\Program.cs",
               "RelativeToolTip": "ExamSystem\\Program.cs",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAYwFcAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAYwDQAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-01T15:30:47.932Z",
+              "WhenOpened": "2025-03-02T11:54:13.673Z",
               "EditorCaption": ""
             }
           ]

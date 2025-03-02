@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Mohamed\\ITI\\ITI-Tasks\\C#_6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD256F2B-1ECB-4362-A634-5080C9169512}|C#_6\\C#_6.csproj|e:\\mohamed\\iti\\iti-tasks\\c#_6\\c#_6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD256F2B-1ECB-4362-A634-5080C9169512}|C#_6\\C#_6.csproj|solutionrelative:c#_6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD256F2B-1ECB-4362-A634-5080C9169512}|C#_6\\C#_6.csproj|e:\\mohamed\\iti\\iti-tasks\\c#_6\\c#_6\\libraryengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD256F2B-1ECB-4362-A634-5080C9169512}|C#_6\\C#_6.csproj|solutionrelative:c#_6\\libraryengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD256F2B-1ECB-4362-A634-5080C9169512}|C#_6\\C#_6.csproj|e:\\mohamed\\iti\\iti-tasks\\c#_6\\c#_6\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD256F2B-1ECB-4362-A634-5080C9169512}|C#_6\\C#_6.csproj|solutionrelative:c#_6\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD256F2B-1ECB-4362-A634-5080C9169512}|C#_6\\C#_6.csproj|e:\\mohamed\\iti\\iti-tasks\\c#_6\\c#_6\\bookfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD256F2B-1ECB-4362-A634-5080C9169512}|C#_6\\C#_6.csproj|solutionrelative:c#_6\\bookfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD256F2B-1ECB-4362-A634-5080C9169512}|C#_6\\C#_6.csproj|e:\\mohamed\\iti\\iti-tasks\\c#_6\\c#_6\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD256F2B-1ECB-4362-A634-5080C9169512}|C#_6\\C#_6.csproj|solutionrelative:c#_6\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "E:\\Mohamed\\ITI\\ITI-Tasks\\C#_6\\C#_6\\Repository.cs",
+              "RelativeDocumentMoniker": "C#_6\\Repository.cs",
+              "ToolTip": "E:\\Mohamed\\ITI\\ITI-Tasks\\C#_6\\C#_6\\Repository.cs",
+              "RelativeToolTip": "C#_6\\Repository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T11:10:17.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LibraryEngine.cs",
+              "DocumentMoniker": "E:\\Mohamed\\ITI\\ITI-Tasks\\C#_6\\C#_6\\LibraryEngine.cs",
+              "RelativeDocumentMoniker": "C#_6\\LibraryEngine.cs",
+              "ToolTip": "E:\\Mohamed\\ITI\\ITI-Tasks\\C#_6\\C#_6\\LibraryEngine.cs",
+              "RelativeToolTip": "C#_6\\LibraryEngine.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T10:26:26.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookFunctions.cs",
+              "DocumentMoniker": "E:\\Mohamed\\ITI\\ITI-Tasks\\C#_6\\C#_6\\BookFunctions.cs",
+              "RelativeDocumentMoniker": "C#_6\\BookFunctions.cs",
+              "ToolTip": "E:\\Mohamed\\ITI\\ITI-Tasks\\C#_6\\C#_6\\BookFunctions.cs",
+              "RelativeToolTip": "C#_6\\BookFunctions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T10:25:22.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Book.cs",
+              "DocumentMoniker": "E:\\Mohamed\\ITI\\ITI-Tasks\\C#_6\\C#_6\\Book.cs",
+              "RelativeDocumentMoniker": "C#_6\\Book.cs",
+              "ToolTip": "E:\\Mohamed\\ITI\\ITI-Tasks\\C#_6\\C#_6\\Book.cs",
+              "RelativeToolTip": "C#_6\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T10:23:56.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Mohamed\\ITI\\ITI-Tasks\\C#_6\\C#_6\\Program.cs",
+              "RelativeDocumentMoniker": "C#_6\\Program.cs",
+              "ToolTip": "E:\\Mohamed\\ITI\\ITI-Tasks\\C#_6\\C#_6\\Program.cs",
+              "RelativeToolTip": "C#_6\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwBcAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T10:23:19.061Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
