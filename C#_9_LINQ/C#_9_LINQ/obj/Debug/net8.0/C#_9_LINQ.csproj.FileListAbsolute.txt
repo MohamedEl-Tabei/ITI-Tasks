@@ -1,0 +1,15 @@
+E:\Mohamed\ITI\ITI-Tasks\C#_9_LINQ\C#_9_LINQ\obj\Debug\net8.0\C#_9_LINQ.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mohamed\ITI\ITI-Tasks\C#_9_LINQ\C#_9_LINQ\obj\Debug\net8.0\C#_9_LINQ.AssemblyInfoInputs.cache
+E:\Mohamed\ITI\ITI-Tasks\C#_9_LINQ\C#_9_LINQ\obj\Debug\net8.0\C#_9_LINQ.AssemblyInfo.cs
+E:\Mohamed\ITI\ITI-Tasks\C#_9_LINQ\C#_9_LINQ\obj\Debug\net8.0\C#_9_LINQ.csproj.CoreCompileInputs.cache
+E:\Mohamed\ITI\ITI-Tasks\C#_9_LINQ\C#_9_LINQ\obj\Debug\net8.0\C#_9_LINQ.sourcelink.json
+E:\Mohamed\ITI\ITI-Tasks\C#_9_LINQ\C#_9_LINQ\bin\Debug\net8.0\C#_9_LINQ.exe
+E:\Mohamed\ITI\ITI-Tasks\C#_9_LINQ\C#_9_LINQ\bin\Debug\net8.0\C#_9_LINQ.deps.json
+E:\Mohamed\ITI\ITI-Tasks\C#_9_LINQ\C#_9_LINQ\bin\Debug\net8.0\C#_9_LINQ.runtimeconfig.json
+E:\Mohamed\ITI\ITI-Tasks\C#_9_LINQ\C#_9_LINQ\bin\Debug\net8.0\C#_9_LINQ.dll
+E:\Mohamed\ITI\ITI-Tasks\C#_9_LINQ\C#_9_LINQ\bin\Debug\net8.0\C#_9_LINQ.pdb
+E:\Mohamed\ITI\ITI-Tasks\C#_9_LINQ\C#_9_LINQ\obj\Debug\net8.0\C#_9_LINQ.dll
+E:\Mohamed\ITI\ITI-Tasks\C#_9_LINQ\C#_9_LINQ\obj\Debug\net8.0\refint\C#_9_LINQ.dll
+E:\Mohamed\ITI\ITI-Tasks\C#_9_LINQ\C#_9_LINQ\obj\Debug\net8.0\C#_9_LINQ.pdb
+E:\Mohamed\ITI\ITI-Tasks\C#_9_LINQ\C#_9_LINQ\obj\Debug\net8.0\C#_9_LINQ.genruntimeconfig.cache
+E:\Mohamed\ITI\ITI-Tasks\C#_9_LINQ\C#_9_LINQ\obj\Debug\net8.0\ref\C#_9_LINQ.dll

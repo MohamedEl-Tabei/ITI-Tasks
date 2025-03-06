@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Mohamed\\ITI\\ITI-Tasks\\C#_8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48B9DD43-E357-4ECB-AABA-1EE4E7B149C9}|ITI.Presentation\\ITI.Presentation.csproj|e:\\mohamed\\iti\\iti-tasks\\c#_8\\iti.presentation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{48B9DD43-E357-4ECB-AABA-1EE4E7B149C9}|ITI.Presentation\\ITI.Presentation.csproj|solutionrelative:iti.presentation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A65A6D-892D-48D5-AED9-0B8BA8290307}|ITI.BusinessLayer\\ITI.BusinessLayer.csproj|e:\\mohamed\\iti\\iti-tasks\\c#_8\\iti.businesslayer\\studentbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35A65A6D-892D-48D5-AED9-0B8BA8290307}|ITI.BusinessLayer\\ITI.BusinessLayer.csproj|solutionrelative:iti.businesslayer\\studentbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48B9DD43-E357-4ECB-AABA-1EE4E7B149C9}|ITI.Presentation\\ITI.Presentation.csproj|e:\\mohamed\\iti\\iti-tasks\\c#_8\\iti.presentation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48B9DD43-E357-4ECB-AABA-1EE4E7B149C9}|ITI.Presentation\\ITI.Presentation.csproj|solutionrelative:iti.presentation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F47BF4A-1044-4841-BCA7-27D89F3A6205}|C#_8\\C#_8.csproj|e:\\mohamed\\iti\\iti-tasks\\c#_8\\c#_8\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2F47BF4A-1044-4841-BCA7-27D89F3A6205}|C#_8\\C#_8.csproj|solutionrelative:c#_8\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentBL.cs",
+              "DocumentMoniker": "E:\\Mohamed\\ITI\\ITI-Tasks\\C#_8\\ITI.BusinessLayer\\StudentBL.cs",
+              "RelativeDocumentMoniker": "ITI.BusinessLayer\\StudentBL.cs",
+              "ToolTip": "E:\\Mohamed\\ITI\\ITI-Tasks\\C#_8\\ITI.BusinessLayer\\StudentBL.cs",
+              "RelativeToolTip": "ITI.BusinessLayer\\StudentBL.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwCoAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T19:40:11.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\Mohamed\\ITI\\ITI-Tasks\\C#_8\\ITI.Presentation\\Form1.cs",
+              "RelativeDocumentMoniker": "ITI.Presentation\\Form1.cs",
+              "ToolTip": "E:\\Mohamed\\ITI\\ITI-Tasks\\C#_8\\ITI.Presentation\\Form1.cs",
+              "RelativeToolTip": "ITI.Presentation\\Form1.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAtwEEAAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T19:24:46.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\Mohamed\\ITI\\ITI-Tasks\\C#_8\\C#_8\\Form1.cs",
+              "RelativeDocumentMoniker": "C#_8\\Form1.cs",
+              "ToolTip": "E:\\Mohamed\\ITI\\ITI-Tasks\\C#_8\\C#_8\\Form1.cs [Design]",
+              "RelativeToolTip": "C#_8\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T19:03:54.416Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\Mohamed\\ITI\\ITI-Tasks\\C#_8\\ITI.Presentation\\Form1.cs",
+              "RelativeDocumentMoniker": "ITI.Presentation\\Form1.cs",
+              "ToolTip": "E:\\Mohamed\\ITI\\ITI-Tasks\\C#_8\\ITI.Presentation\\Form1.cs [Design]",
+              "RelativeToolTip": "ITI.Presentation\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T18:25:18.084Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

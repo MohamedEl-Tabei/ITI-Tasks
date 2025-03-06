@@ -1,0 +1,15 @@
+E:\Mohamed\ITI\ITI-Tasks\C#_8_LINQ\C#_8_LINQ\bin\Debug\net8.0\C#_8_LINQ.exe
+E:\Mohamed\ITI\ITI-Tasks\C#_8_LINQ\C#_8_LINQ\bin\Debug\net8.0\C#_8_LINQ.deps.json
+E:\Mohamed\ITI\ITI-Tasks\C#_8_LINQ\C#_8_LINQ\bin\Debug\net8.0\C#_8_LINQ.runtimeconfig.json
+E:\Mohamed\ITI\ITI-Tasks\C#_8_LINQ\C#_8_LINQ\bin\Debug\net8.0\C#_8_LINQ.dll
+E:\Mohamed\ITI\ITI-Tasks\C#_8_LINQ\C#_8_LINQ\bin\Debug\net8.0\C#_8_LINQ.pdb
+E:\Mohamed\ITI\ITI-Tasks\C#_8_LINQ\C#_8_LINQ\obj\Debug\net8.0\C#_8_LINQ.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mohamed\ITI\ITI-Tasks\C#_8_LINQ\C#_8_LINQ\obj\Debug\net8.0\C#_8_LINQ.AssemblyInfoInputs.cache
+E:\Mohamed\ITI\ITI-Tasks\C#_8_LINQ\C#_8_LINQ\obj\Debug\net8.0\C#_8_LINQ.AssemblyInfo.cs
+E:\Mohamed\ITI\ITI-Tasks\C#_8_LINQ\C#_8_LINQ\obj\Debug\net8.0\C#_8_LINQ.csproj.CoreCompileInputs.cache
+E:\Mohamed\ITI\ITI-Tasks\C#_8_LINQ\C#_8_LINQ\obj\Debug\net8.0\C#_8_LINQ.sourcelink.json
+E:\Mohamed\ITI\ITI-Tasks\C#_8_LINQ\C#_8_LINQ\obj\Debug\net8.0\C#_8_LINQ.dll
+E:\Mohamed\ITI\ITI-Tasks\C#_8_LINQ\C#_8_LINQ\obj\Debug\net8.0\refint\C#_8_LINQ.dll
+E:\Mohamed\ITI\ITI-Tasks\C#_8_LINQ\C#_8_LINQ\obj\Debug\net8.0\C#_8_LINQ.pdb
+E:\Mohamed\ITI\ITI-Tasks\C#_8_LINQ\C#_8_LINQ\obj\Debug\net8.0\C#_8_LINQ.genruntimeconfig.cache
+E:\Mohamed\ITI\ITI-Tasks\C#_8_LINQ\C#_8_LINQ\obj\Debug\net8.0\ref\C#_8_LINQ.dll

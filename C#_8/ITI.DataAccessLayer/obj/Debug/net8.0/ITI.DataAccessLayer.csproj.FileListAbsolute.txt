@@ -1,0 +1,14 @@
+E:\Mohamed\ITI\ITI-Tasks\C#_8\ITI.DataAccessLayer\bin\Debug\net8.0\ITI.DataAccessLayer.dll.config
+E:\Mohamed\ITI\ITI-Tasks\C#_8\ITI.DataAccessLayer\bin\Debug\net8.0\ITI.DataAccessLayer.deps.json
+E:\Mohamed\ITI\ITI-Tasks\C#_8\ITI.DataAccessLayer\bin\Debug\net8.0\ITI.DataAccessLayer.dll
+E:\Mohamed\ITI\ITI-Tasks\C#_8\ITI.DataAccessLayer\bin\Debug\net8.0\ITI.DataAccessLayer.pdb
+E:\Mohamed\ITI\ITI-Tasks\C#_8\ITI.DataAccessLayer\obj\Debug\net8.0\ITI.DataAccessLayer.csproj.AssemblyReference.cache
+E:\Mohamed\ITI\ITI-Tasks\C#_8\ITI.DataAccessLayer\obj\Debug\net8.0\ITI.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mohamed\ITI\ITI-Tasks\C#_8\ITI.DataAccessLayer\obj\Debug\net8.0\ITI.DataAccessLayer.AssemblyInfoInputs.cache
+E:\Mohamed\ITI\ITI-Tasks\C#_8\ITI.DataAccessLayer\obj\Debug\net8.0\ITI.DataAccessLayer.AssemblyInfo.cs
+E:\Mohamed\ITI\ITI-Tasks\C#_8\ITI.DataAccessLayer\obj\Debug\net8.0\ITI.DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\Mohamed\ITI\ITI-Tasks\C#_8\ITI.DataAccessLayer\obj\Debug\net8.0\ITI.DataAccessLayer.sourcelink.json
+E:\Mohamed\ITI\ITI-Tasks\C#_8\ITI.DataAccessLayer\obj\Debug\net8.0\ITI.DataAccessLayer.dll
+E:\Mohamed\ITI\ITI-Tasks\C#_8\ITI.DataAccessLayer\obj\Debug\net8.0\refint\ITI.DataAccessLayer.dll
+E:\Mohamed\ITI\ITI-Tasks\C#_8\ITI.DataAccessLayer\obj\Debug\net8.0\ITI.DataAccessLayer.pdb
+E:\Mohamed\ITI\ITI-Tasks\C#_8\ITI.DataAccessLayer\obj\Debug\net8.0\ref\ITI.DataAccessLayer.dll

@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Mohamed\\ITI\\ITI-Tasks\\C#_7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78273E58-B69D-4C23-89A7-FAD22B4E812A}|ITI CRUD\\ITI CRUD.csproj|e:\\mohamed\\iti\\iti-tasks\\c#_7\\iti crud\\frmdeleteupdatestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{78273E58-B69D-4C23-89A7-FAD22B4E812A}|ITI CRUD\\ITI CRUD.csproj|solutionrelative:iti crud\\frmdeleteupdatestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0480577B-838C-41E5-AF39-7ADFCC8740E6}|C#_7\\C#_7.csproj|e:\\mohamed\\iti\\iti-tasks\\c#_7\\c#_7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0480577B-838C-41E5-AF39-7ADFCC8740E6}|C#_7\\C#_7.csproj|solutionrelative:c#_7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmDeleteUpdateStudent.cs [Design]",
+              "DocumentMoniker": "E:\\Mohamed\\ITI\\ITI-Tasks\\C#_7\\ITI CRUD\\frmDeleteUpdateStudent.cs",
+              "RelativeDocumentMoniker": "ITI CRUD\\frmDeleteUpdateStudent.cs",
+              "ToolTip": "E:\\Mohamed\\ITI\\ITI-Tasks\\C#_7\\ITI CRUD\\frmDeleteUpdateStudent.cs [Design]",
+              "RelativeToolTip": "ITI CRUD\\frmDeleteUpdateStudent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T10:39:54.062Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\Mohamed\\ITI\\ITI-Tasks\\C#_7\\C#_7\\Form1.cs",
+              "RelativeDocumentMoniker": "C#_7\\Form1.cs",
+              "ToolTip": "E:\\Mohamed\\ITI\\ITI-Tasks\\C#_7\\C#_7\\Form1.cs [Design]",
+              "RelativeToolTip": "C#_7\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T12:05:11.325Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
