@@ -1,0 +1,15 @@
+E:\Mohamed\ITI\ITI-Tasks\Threading\Threading\obj\Debug\net8.0\Threading.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mohamed\ITI\ITI-Tasks\Threading\Threading\obj\Debug\net8.0\Threading.AssemblyInfoInputs.cache
+E:\Mohamed\ITI\ITI-Tasks\Threading\Threading\obj\Debug\net8.0\Threading.AssemblyInfo.cs
+E:\Mohamed\ITI\ITI-Tasks\Threading\Threading\obj\Debug\net8.0\Threading.csproj.CoreCompileInputs.cache
+E:\Mohamed\ITI\ITI-Tasks\Threading\Threading\obj\Debug\net8.0\Threading.sourcelink.json
+E:\Mohamed\ITI\ITI-Tasks\Threading\Threading\bin\Debug\net8.0\Threading.exe
+E:\Mohamed\ITI\ITI-Tasks\Threading\Threading\bin\Debug\net8.0\Threading.deps.json
+E:\Mohamed\ITI\ITI-Tasks\Threading\Threading\bin\Debug\net8.0\Threading.runtimeconfig.json
+E:\Mohamed\ITI\ITI-Tasks\Threading\Threading\bin\Debug\net8.0\Threading.dll
+E:\Mohamed\ITI\ITI-Tasks\Threading\Threading\bin\Debug\net8.0\Threading.pdb
+E:\Mohamed\ITI\ITI-Tasks\Threading\Threading\obj\Debug\net8.0\Threading.dll
+E:\Mohamed\ITI\ITI-Tasks\Threading\Threading\obj\Debug\net8.0\refint\Threading.dll
+E:\Mohamed\ITI\ITI-Tasks\Threading\Threading\obj\Debug\net8.0\Threading.pdb
+E:\Mohamed\ITI\ITI-Tasks\Threading\Threading\obj\Debug\net8.0\Threading.genruntimeconfig.cache
+E:\Mohamed\ITI\ITI-Tasks\Threading\Threading\obj\Debug\net8.0\ref\Threading.dll

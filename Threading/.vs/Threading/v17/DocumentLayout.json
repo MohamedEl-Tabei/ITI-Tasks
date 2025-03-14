@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Mohamed\\ITI\\ITI-Tasks\\Threading\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE7DDA8-1EEB-40C6-A6F0-30A7C5553901}|Threading\\Threading.csproj|e:\\mohamed\\iti\\iti-tasks\\threading\\threading\\bankacount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EE7DDA8-1EEB-40C6-A6F0-30A7C5553901}|Threading\\Threading.csproj|solutionrelative:threading\\bankacount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE7DDA8-1EEB-40C6-A6F0-30A7C5553901}|Threading\\Threading.csproj|e:\\mohamed\\iti\\iti-tasks\\threading\\threading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EE7DDA8-1EEB-40C6-A6F0-30A7C5553901}|Threading\\Threading.csproj|solutionrelative:threading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Mohamed\\ITI\\ITI-Tasks\\Threading\\Threading\\Program.cs",
+              "RelativeDocumentMoniker": "Threading\\Program.cs",
+              "ToolTip": "E:\\Mohamed\\ITI\\ITI-Tasks\\Threading\\Threading\\Program.cs",
+              "RelativeToolTip": "Threading\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T18:31:04.645Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BankAcount.cs",
+              "DocumentMoniker": "E:\\Mohamed\\ITI\\ITI-Tasks\\Threading\\Threading\\BankAcount.cs",
+              "RelativeDocumentMoniker": "Threading\\BankAcount.cs",
+              "ToolTip": "E:\\Mohamed\\ITI\\ITI-Tasks\\Threading\\Threading\\BankAcount.cs",
+              "RelativeToolTip": "Threading\\BankAcount.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T18:38:54.761Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
