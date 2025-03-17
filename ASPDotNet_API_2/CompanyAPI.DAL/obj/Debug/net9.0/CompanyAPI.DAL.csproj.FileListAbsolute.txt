@@ -1,0 +1,13 @@
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_2\CompanyAPI.DAL\bin\Debug\net9.0\CompanyAPI.DAL.deps.json
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_2\CompanyAPI.DAL\bin\Debug\net9.0\CompanyAPI.DAL.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_2\CompanyAPI.DAL\bin\Debug\net9.0\CompanyAPI.DAL.pdb
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_2\CompanyAPI.DAL\obj\Debug\net9.0\CompanyAPI.DAL.csproj.AssemblyReference.cache
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_2\CompanyAPI.DAL\obj\Debug\net9.0\CompanyAPI.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_2\CompanyAPI.DAL\obj\Debug\net9.0\CompanyAPI.DAL.AssemblyInfoInputs.cache
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_2\CompanyAPI.DAL\obj\Debug\net9.0\CompanyAPI.DAL.AssemblyInfo.cs
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_2\CompanyAPI.DAL\obj\Debug\net9.0\CompanyAPI.DAL.csproj.CoreCompileInputs.cache
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_2\CompanyAPI.DAL\obj\Debug\net9.0\CompanyAPI.DAL.sourcelink.json
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_2\CompanyAPI.DAL\obj\Debug\net9.0\CompanyAPI.DAL.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_2\CompanyAPI.DAL\obj\Debug\net9.0\refint\CompanyAPI.DAL.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_2\CompanyAPI.DAL\obj\Debug\net9.0\CompanyAPI.DAL.pdb
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_2\CompanyAPI.DAL\obj\Debug\net9.0\ref\CompanyAPI.DAL.dll

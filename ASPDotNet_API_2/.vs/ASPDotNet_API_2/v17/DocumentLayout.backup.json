@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Mohamed\\ITI\\ITI-Tasks\\ASPDotNet_API_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A98FE74C-34B2-4614-9450-AD4BFBBF1978}|CompanyAPI.DAL\\CompanyAPI.DAL.csproj|e:\\mohamed\\iti\\iti-tasks\\aspdotnet_api_2\\companyapi.dal\\repositories\\emplyeerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98FE74C-34B2-4614-9450-AD4BFBBF1978}|CompanyAPI.DAL\\CompanyAPI.DAL.csproj|solutionrelative:companyapi.dal\\repositories\\emplyeerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33842946-3F55-40D5-AF4C-0364F9903121}|CompanyAPI.BL\\CompanyAPI.BL.csproj|e:\\mohamed\\iti\\iti-tasks\\aspdotnet_api_2\\companyapi.bl\\services\\employeeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33842946-3F55-40D5-AF4C-0364F9903121}|CompanyAPI.BL\\CompanyAPI.BL.csproj|solutionrelative:companyapi.bl\\services\\employeeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33842946-3F55-40D5-AF4C-0364F9903121}|CompanyAPI.BL\\CompanyAPI.BL.csproj|e:\\mohamed\\iti\\iti-tasks\\aspdotnet_api_2\\companyapi.bl\\services\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33842946-3F55-40D5-AF4C-0364F9903121}|CompanyAPI.BL\\CompanyAPI.BL.csproj|solutionrelative:companyapi.bl\\services\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B043E91A-4DAC-45A4-A7E9-0D5625F6B979}|CompanyAPI\\CompanyAPI.csproj|e:\\mohamed\\iti\\iti-tasks\\aspdotnet_api_2\\companyapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B043E91A-4DAC-45A4-A7E9-0D5625F6B979}|CompanyAPI\\CompanyAPI.csproj|solutionrelative:companyapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33842946-3F55-40D5-AF4C-0364F9903121}|CompanyAPI.BL\\CompanyAPI.BL.csproj|e:\\mohamed\\iti\\iti-tasks\\aspdotnet_api_2\\companyapi.bl\\blextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33842946-3F55-40D5-AF4C-0364F9903121}|CompanyAPI.BL\\CompanyAPI.BL.csproj|solutionrelative:companyapi.bl\\blextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmplyeeRepo.cs",
+              "DocumentMoniker": "E:\\Mohamed\\ITI\\ITI-Tasks\\ASPDotNet_API_2\\CompanyAPI.DAL\\Repositories\\EmplyeeRepo.cs",
+              "RelativeDocumentMoniker": "CompanyAPI.DAL\\Repositories\\EmplyeeRepo.cs",
+              "ToolTip": "E:\\Mohamed\\ITI\\ITI-Tasks\\ASPDotNet_API_2\\CompanyAPI.DAL\\Repositories\\EmplyeeRepo.cs",
+              "RelativeToolTip": "CompanyAPI.DAL\\Repositories\\EmplyeeRepo.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T14:32:38.897Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeServices.cs",
+              "DocumentMoniker": "E:\\Mohamed\\ITI\\ITI-Tasks\\ASPDotNet_API_2\\CompanyAPI.BL\\Services\\EmployeeServices.cs",
+              "RelativeDocumentMoniker": "CompanyAPI.BL\\Services\\EmployeeServices.cs",
+              "ToolTip": "E:\\Mohamed\\ITI\\ITI-Tasks\\ASPDotNet_API_2\\CompanyAPI.BL\\Services\\EmployeeServices.cs",
+              "RelativeToolTip": "CompanyAPI.BL\\Services\\EmployeeServices.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwB0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T12:43:01.887Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "E:\\Mohamed\\ITI\\ITI-Tasks\\ASPDotNet_API_2\\CompanyAPI\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "CompanyAPI\\Controllers\\EmployeeController.cs",
+              "ToolTip": "E:\\Mohamed\\ITI\\ITI-Tasks\\ASPDotNet_API_2\\CompanyAPI\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "CompanyAPI\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T15:58:37.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BLExtensions.cs",
+              "DocumentMoniker": "E:\\Mohamed\\ITI\\ITI-Tasks\\ASPDotNet_API_2\\CompanyAPI.BL\\BLExtensions.cs",
+              "RelativeDocumentMoniker": "CompanyAPI.BL\\BLExtensions.cs",
+              "ToolTip": "E:\\Mohamed\\ITI\\ITI-Tasks\\ASPDotNet_API_2\\CompanyAPI.BL\\BLExtensions.cs",
+              "RelativeToolTip": "CompanyAPI.BL\\BLExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T14:47:54.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "E:\\Mohamed\\ITI\\ITI-Tasks\\ASPDotNet_API_2\\CompanyAPI.BL\\Services\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "CompanyAPI.BL\\Services\\IEmployeeService.cs",
+              "ToolTip": "E:\\Mohamed\\ITI\\ITI-Tasks\\ASPDotNet_API_2\\CompanyAPI.BL\\Services\\IEmployeeService.cs",
+              "RelativeToolTip": "CompanyAPI.BL\\Services\\IEmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T14:47:43.125Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a83394e3-39c2-4678-a3c8-364b69d78fd3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
