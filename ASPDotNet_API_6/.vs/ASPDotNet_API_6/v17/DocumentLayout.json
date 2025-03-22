@@ -1,0 +1,48 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Mohamed\\ITI\\ITI-Tasks\\ASPDotNet_API_6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{626D06E9-CBE8-4B93-8E05-C78882381E71}|ITI_API\\ITI_API.csproj|e:\\mohamed\\iti\\iti-tasks\\aspdotnet_api_6\\iti_api\\middleware\\customexceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{626D06E9-CBE8-4B93-8E05-C78882381E71}|ITI_API\\ITI_API.csproj|solutionrelative:iti_api\\middleware\\customexceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "E:\\Mohamed\\ITI\\ITI-Tasks\\ASPDotNet_API_6\\ITI_API\\Middleware\\CustomExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "ITI_API\\Middleware\\CustomExceptionHandlingMiddleware.cs",
+              "ToolTip": "E:\\Mohamed\\ITI\\ITI-Tasks\\ASPDotNet_API_6\\ITI_API\\Middleware\\CustomExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "ITI_API\\Middleware\\CustomExceptionHandlingMiddleware.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T10:39:22.675Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a83394e3-39c2-4678-a3c8-364b69d78fd3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

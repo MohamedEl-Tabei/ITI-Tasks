@@ -1,0 +1,863 @@
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\appsettings.Development.json
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\appsettings.json
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\ITI_API.staticwebassets.endpoints.json
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\ITI_API.exe
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\ITI_API.deps.json
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\ITI_API.runtimeconfig.json
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\ITI_API.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\ITI_API.pdb
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\Azure.Core.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\Azure.Identity.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\Microsoft.OpenApi.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\System.ClientModel.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\System.Drawing.Common.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\System.Formats.Asn1.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\System.Memory.Data.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\System.Runtime.Caching.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\System.Security.Permissions.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\System.Text.Json.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\System.Windows.Extensions.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\ITI_API_BL.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\ITI_API_DAL.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\ITI_API_BL.pdb
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\ITI_API_DAL.pdb
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\obj\Debug\net9.0\ITI_API.csproj.AssemblyReference.cache
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\obj\Debug\net9.0\ITI_API.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\obj\Debug\net9.0\ITI_API.AssemblyInfoInputs.cache
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\obj\Debug\net9.0\ITI_API.AssemblyInfo.cs
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\obj\Debug\net9.0\ITI_API.csproj.CoreCompileInputs.cache
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\obj\Debug\net9.0\ITI_API.MvcApplicationPartsAssemblyInfo.cs
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\obj\Debug\net9.0\ITI_API.MvcApplicationPartsAssemblyInfo.cache
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\obj\Debug\net9.0\ITI_API.sourcelink.json
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\obj\Debug\net9.0\scopedcss\bundle\ITI_API.styles.css
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\obj\Debug\net9.0\staticwebassets.build.json
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\obj\Debug\net9.0\staticwebassets.development.json
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\obj\Debug\net9.0\staticwebassets\msbuild.ITI_API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\obj\Debug\net9.0\staticwebassets\msbuild.ITI_API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\obj\Debug\net9.0\staticwebassets\msbuild.build.ITI_API.props
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.ITI_API.props
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.ITI_API.props
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\obj\Debug\net9.0\staticwebassets.pack.json
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\obj\Debug\net9.0\ITI_API.csproj.Up2Date
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\obj\Debug\net9.0\ITI_API.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\obj\Debug\net9.0\refint\ITI_API.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\obj\Debug\net9.0\ITI_API.pdb
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\obj\Debug\net9.0\ITI_API.genruntimeconfig.cache
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\obj\Debug\net9.0\ref\ITI_API.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\Humanizer.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\Mono.TextTemplating.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\Scalar.AspNetCore.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\System.CodeDom.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\System.Composition.Convention.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\System.Composition.Hosting.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\System.Composition.Runtime.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\System.Composition.TypedParts.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_3\ITI_API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\appsettings.Development.json
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\appsettings.json
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\ITI_API.staticwebassets.endpoints.json
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\ITI_API.exe
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\ITI_API.deps.json
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\ITI_API.runtimeconfig.json
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\ITI_API.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\ITI_API.pdb
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\Azure.Core.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\Azure.Identity.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\Humanizer.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\Microsoft.OpenApi.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\Mono.TextTemplating.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\Scalar.AspNetCore.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\System.ClientModel.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\System.CodeDom.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\System.Composition.Convention.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\System.Composition.Hosting.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\System.Composition.Runtime.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\System.Composition.TypedParts.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\System.Drawing.Common.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\System.Formats.Asn1.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\System.Memory.Data.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\System.Runtime.Caching.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\System.Security.Permissions.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\System.Text.Json.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\System.Windows.Extensions.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\ITI_API_BL.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\ITI_API_DAL.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\ITI_API_BL.pdb
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\bin\Debug\net9.0\ITI_API_DAL.pdb
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\obj\Debug\net9.0\ITI_API.csproj.AssemblyReference.cache
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\obj\Debug\net9.0\ITI_API.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\obj\Debug\net9.0\ITI_API.AssemblyInfoInputs.cache
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\obj\Debug\net9.0\ITI_API.AssemblyInfo.cs
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\obj\Debug\net9.0\ITI_API.csproj.CoreCompileInputs.cache
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\obj\Debug\net9.0\ITI_API.MvcApplicationPartsAssemblyInfo.cs
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\obj\Debug\net9.0\ITI_API.MvcApplicationPartsAssemblyInfo.cache
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\obj\Debug\net9.0\ITI_API.sourcelink.json
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\obj\Debug\net9.0\scopedcss\bundle\ITI_API.styles.css
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\obj\Debug\net9.0\staticwebassets.build.json
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\obj\Debug\net9.0\staticwebassets.development.json
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\obj\Debug\net9.0\staticwebassets\msbuild.ITI_API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\obj\Debug\net9.0\staticwebassets\msbuild.ITI_API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\obj\Debug\net9.0\staticwebassets\msbuild.build.ITI_API.props
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.ITI_API.props
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.ITI_API.props
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\obj\Debug\net9.0\staticwebassets.pack.json
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\obj\Debug\net9.0\ITI_API.csproj.Up2Date
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\obj\Debug\net9.0\ITI_API.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\obj\Debug\net9.0\refint\ITI_API.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\obj\Debug\net9.0\ITI_API.pdb
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\obj\Debug\net9.0\ITI_API.genruntimeconfig.cache
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_4\ITI_API\obj\Debug\net9.0\ref\ITI_API.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\appsettings.Development.json
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\ITI_API.staticwebassets.endpoints.json
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\appsettings.json
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\ITI_API.exe
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\ITI_API.deps.json
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\ITI_API.runtimeconfig.json
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\ITI_API.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\ITI_API.pdb
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\Azure.Core.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\Azure.Identity.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\Humanizer.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\Microsoft.OpenApi.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\Mono.TextTemplating.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\Scalar.AspNetCore.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\System.ClientModel.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\System.CodeDom.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\System.Composition.Convention.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\System.Composition.Hosting.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\System.Composition.Runtime.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\System.Composition.TypedParts.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\System.Drawing.Common.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\System.Formats.Asn1.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\System.Memory.Data.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\System.Runtime.Caching.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\System.Security.Permissions.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\System.Text.Json.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\System.Windows.Extensions.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\ITI_API_BL.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\ITI_API_DAL.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\ITI_API_BL.pdb
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\ITI_API_DAL.pdb
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\obj\Debug\net9.0\ITI_API.csproj.AssemblyReference.cache
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\obj\Debug\net9.0\ITI_API.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\obj\Debug\net9.0\ITI_API.AssemblyInfoInputs.cache
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\obj\Debug\net9.0\ITI_API.AssemblyInfo.cs
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\obj\Debug\net9.0\ITI_API.csproj.CoreCompileInputs.cache
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\obj\Debug\net9.0\ITI_API.MvcApplicationPartsAssemblyInfo.cs
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\obj\Debug\net9.0\ITI_API.MvcApplicationPartsAssemblyInfo.cache
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\obj\Debug\net9.0\ITI_API.sourcelink.json
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\obj\Debug\net9.0\scopedcss\bundle\ITI_API.styles.css
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\obj\Debug\net9.0\staticwebassets.build.json
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\obj\Debug\net9.0\staticwebassets.development.json
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\obj\Debug\net9.0\staticwebassets\msbuild.ITI_API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\obj\Debug\net9.0\staticwebassets\msbuild.ITI_API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\obj\Debug\net9.0\staticwebassets\msbuild.build.ITI_API.props
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.ITI_API.props
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.ITI_API.props
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\obj\Debug\net9.0\staticwebassets.pack.json
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\obj\Debug\net9.0\ITI_API.csproj.Up2Date
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\obj\Debug\net9.0\ITI_API.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\obj\Debug\net9.0\refint\ITI_API.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\obj\Debug\net9.0\ITI_API.pdb
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\obj\Debug\net9.0\ITI_API.genruntimeconfig.cache
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_5\ITI_API\obj\Debug\net9.0\ref\ITI_API.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\appsettings.Development.json
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\appsettings.json
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\ITI_API.staticwebassets.endpoints.json
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\ITI_API.exe
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\ITI_API.deps.json
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\ITI_API.runtimeconfig.json
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\ITI_API.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\ITI_API.pdb
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\Azure.Core.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\Azure.Identity.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\FluentValidation.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\FluentValidation.DependencyInjectionExtensions.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\Humanizer.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\Microsoft.OpenApi.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\Mono.TextTemplating.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\Scalar.AspNetCore.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\System.ClientModel.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\System.CodeDom.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\System.Composition.Convention.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\System.Composition.Hosting.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\System.Composition.Runtime.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\System.Composition.TypedParts.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\System.Drawing.Common.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\System.Formats.Asn1.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\System.Memory.Data.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\System.Runtime.Caching.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\System.Security.Permissions.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\System.Text.Json.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\System.Windows.Extensions.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\ITI_API_BL.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\ITI_API_DAL.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\ITI_API_BL.pdb
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\bin\Debug\net9.0\ITI_API_DAL.pdb
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\obj\Debug\net9.0\ITI_API.csproj.AssemblyReference.cache
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\obj\Debug\net9.0\ITI_API.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\obj\Debug\net9.0\ITI_API.AssemblyInfoInputs.cache
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\obj\Debug\net9.0\ITI_API.AssemblyInfo.cs
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\obj\Debug\net9.0\ITI_API.csproj.CoreCompileInputs.cache
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\obj\Debug\net9.0\ITI_API.MvcApplicationPartsAssemblyInfo.cs
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\obj\Debug\net9.0\ITI_API.MvcApplicationPartsAssemblyInfo.cache
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\obj\Debug\net9.0\scopedcss\bundle\ITI_API.styles.css
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\obj\Debug\net9.0\staticwebassets.build.json
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\obj\Debug\net9.0\staticwebassets.development.json
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\obj\Debug\net9.0\staticwebassets\msbuild.ITI_API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\obj\Debug\net9.0\staticwebassets\msbuild.ITI_API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\obj\Debug\net9.0\staticwebassets\msbuild.build.ITI_API.props
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.ITI_API.props
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.ITI_API.props
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\obj\Debug\net9.0\staticwebassets.pack.json
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\obj\Debug\net9.0\ITI_API.csproj.Up2Date
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\obj\Debug\net9.0\ITI_API.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\obj\Debug\net9.0\refint\ITI_API.dll
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\obj\Debug\net9.0\ITI_API.pdb
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\obj\Debug\net9.0\ITI_API.genruntimeconfig.cache
+E:\Mohamed\ITI\Self-Study\ASP .NET Core\D06\ASPDotNet_API_5\ITI_API\obj\Debug\net9.0\ref\ITI_API.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\appsettings.Development.json
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\appsettings.json
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\ITI_API.staticwebassets.endpoints.json
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\ITI_API.exe
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\ITI_API.deps.json
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\ITI_API.runtimeconfig.json
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\ITI_API.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\ITI_API.pdb
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\Azure.Core.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\Azure.Identity.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\FluentValidation.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\FluentValidation.DependencyInjectionExtensions.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\Humanizer.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\Microsoft.OpenApi.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\Mono.TextTemplating.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\Scalar.AspNetCore.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\System.ClientModel.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\System.CodeDom.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\System.Composition.Convention.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\System.Composition.Hosting.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\System.Composition.Runtime.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\System.Composition.TypedParts.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\System.Drawing.Common.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\System.Formats.Asn1.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\System.Memory.Data.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\System.Runtime.Caching.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\System.Security.Permissions.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\System.Text.Json.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\System.Windows.Extensions.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\ITI_API_BL.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\ITI_API_DAL.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\ITI_API_BL.pdb
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\bin\Debug\net9.0\ITI_API_DAL.pdb
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\obj\Debug\net9.0\ITI_API.csproj.AssemblyReference.cache
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\obj\Debug\net9.0\ITI_API.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\obj\Debug\net9.0\ITI_API.AssemblyInfoInputs.cache
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\obj\Debug\net9.0\ITI_API.AssemblyInfo.cs
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\obj\Debug\net9.0\ITI_API.csproj.CoreCompileInputs.cache
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\obj\Debug\net9.0\ITI_API.MvcApplicationPartsAssemblyInfo.cs
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\obj\Debug\net9.0\ITI_API.MvcApplicationPartsAssemblyInfo.cache
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\obj\Debug\net9.0\ITI_API.sourcelink.json
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\obj\Debug\net9.0\scopedcss\bundle\ITI_API.styles.css
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\obj\Debug\net9.0\staticwebassets.build.json
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\obj\Debug\net9.0\staticwebassets.development.json
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\obj\Debug\net9.0\staticwebassets\msbuild.ITI_API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\obj\Debug\net9.0\staticwebassets\msbuild.ITI_API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\obj\Debug\net9.0\staticwebassets\msbuild.build.ITI_API.props
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.ITI_API.props
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.ITI_API.props
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\obj\Debug\net9.0\staticwebassets.pack.json
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\obj\Debug\net9.0\ITI_API.csproj.Up2Date
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\obj\Debug\net9.0\ITI_API.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\obj\Debug\net9.0\refint\ITI_API.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\obj\Debug\net9.0\ITI_API.pdb
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\obj\Debug\net9.0\ITI_API.genruntimeconfig.cache
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_API_6\ITI_API\obj\Debug\net9.0\ref\ITI_API.dll

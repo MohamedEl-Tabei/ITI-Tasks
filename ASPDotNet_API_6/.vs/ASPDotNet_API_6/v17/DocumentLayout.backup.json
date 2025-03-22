@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Mohamed\\ITI\\ITI-Tasks\\ASPDotNet_API_6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{626D06E9-CBE8-4B93-8E05-C78882381E71}|ITI_API\\ITI_API.csproj|e:\\mohamed\\iti\\iti-tasks\\aspdotnet_api_6\\iti_api\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{626D06E9-CBE8-4B93-8E05-C78882381E71}|ITI_API\\ITI_API.csproj|solutionrelative:iti_api\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47A49245-4974-4541-AF49-A8D9FBB52E8B}|ITI_API_BL\\ITI_API_BL.csproj|e:\\mohamed\\iti\\iti-tasks\\aspdotnet_api_6\\iti_api_bl\\manager\\student\\mangerstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47A49245-4974-4541-AF49-A8D9FBB52E8B}|ITI_API_BL\\ITI_API_BL.csproj|solutionrelative:iti_api_bl\\manager\\student\\mangerstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{626D06E9-CBE8-4B93-8E05-C78882381E71}|ITI_API\\ITI_API.csproj|e:\\mohamed\\iti\\iti-tasks\\aspdotnet_api_6\\iti_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{626D06E9-CBE8-4B93-8E05-C78882381E71}|ITI_API\\ITI_API.csproj|solutionrelative:iti_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{626D06E9-CBE8-4B93-8E05-C78882381E71}|ITI_API\\ITI_API.csproj|e:\\mohamed\\iti\\iti-tasks\\aspdotnet_api_6\\iti_api\\middleware\\customexceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{626D06E9-CBE8-4B93-8E05-C78882381E71}|ITI_API\\ITI_API.csproj|solutionrelative:iti_api\\middleware\\customexceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47A49245-4974-4541-AF49-A8D9FBB52E8B}|ITI_API_BL\\ITI_API_BL.csproj|e:\\mohamed\\iti\\iti-tasks\\aspdotnet_api_6\\iti_api_bl\\exceptions\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47A49245-4974-4541-AF49-A8D9FBB52E8B}|ITI_API_BL\\ITI_API_BL.csproj|solutionrelative:iti_api_bl\\exceptions\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47A49245-4974-4541-AF49-A8D9FBB52E8B}|ITI_API_BL\\ITI_API_BL.csproj|e:\\mohamed\\iti\\iti-tasks\\aspdotnet_api_6\\iti_api_bl\\manager\\student\\imanagerstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47A49245-4974-4541-AF49-A8D9FBB52E8B}|ITI_API_BL\\ITI_API_BL.csproj|solutionrelative:iti_api_bl\\manager\\student\\imanagerstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "E:\\Mohamed\\ITI\\ITI-Tasks\\ASPDotNet_API_6\\ITI_API\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "ITI_API\\Controllers\\StudentController.cs",
+              "ToolTip": "E:\\Mohamed\\ITI\\ITI-Tasks\\ASPDotNet_API_6\\ITI_API\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "ITI_API\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T09:42:24.623Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IManagerStudent.cs",
+              "DocumentMoniker": "E:\\Mohamed\\ITI\\ITI-Tasks\\ASPDotNet_API_6\\ITI_API_BL\\Manager\\Student\\IManagerStudent.cs",
+              "RelativeDocumentMoniker": "ITI_API_BL\\Manager\\Student\\IManagerStudent.cs",
+              "ToolTip": "E:\\Mohamed\\ITI\\ITI-Tasks\\ASPDotNet_API_6\\ITI_API_BL\\Manager\\Student\\IManagerStudent.cs",
+              "RelativeToolTip": "ITI_API_BL\\Manager\\Student\\IManagerStudent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T10:21:54.837Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ValidationException.cs",
+              "DocumentMoniker": "E:\\Mohamed\\ITI\\ITI-Tasks\\ASPDotNet_API_6\\ITI_API_BL\\Exceptions\\ValidationException.cs",
+              "RelativeDocumentMoniker": "ITI_API_BL\\Exceptions\\ValidationException.cs",
+              "ToolTip": "E:\\Mohamed\\ITI\\ITI-Tasks\\ASPDotNet_API_6\\ITI_API_BL\\Exceptions\\ValidationException.cs",
+              "RelativeToolTip": "ITI_API_BL\\Exceptions\\ValidationException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T10:28:44.449Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MangerStudent.cs",
+              "DocumentMoniker": "E:\\Mohamed\\ITI\\ITI-Tasks\\ASPDotNet_API_6\\ITI_API_BL\\Manager\\Student\\MangerStudent.cs",
+              "RelativeDocumentMoniker": "ITI_API_BL\\Manager\\Student\\MangerStudent.cs",
+              "ToolTip": "E:\\Mohamed\\ITI\\ITI-Tasks\\ASPDotNet_API_6\\ITI_API_BL\\Manager\\Student\\MangerStudent.cs",
+              "RelativeToolTip": "ITI_API_BL\\Manager\\Student\\MangerStudent.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T09:28:12.681Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "E:\\Mohamed\\ITI\\ITI-Tasks\\ASPDotNet_API_6\\ITI_API\\Middleware\\CustomExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "ITI_API\\Middleware\\CustomExceptionHandlingMiddleware.cs",
+              "ToolTip": "E:\\Mohamed\\ITI\\ITI-Tasks\\ASPDotNet_API_6\\ITI_API\\Middleware\\CustomExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "ITI_API\\Middleware\\CustomExceptionHandlingMiddleware.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T10:39:22.675Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Mohamed\\ITI\\ITI-Tasks\\ASPDotNet_API_6\\ITI_API\\Program.cs",
+              "RelativeDocumentMoniker": "ITI_API\\Program.cs",
+              "ToolTip": "E:\\Mohamed\\ITI\\ITI-Tasks\\ASPDotNet_API_6\\ITI_API\\Program.cs",
+              "RelativeToolTip": "ITI_API\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T10:35:10.077Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a83394e3-39c2-4678-a3c8-364b69d78fd3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

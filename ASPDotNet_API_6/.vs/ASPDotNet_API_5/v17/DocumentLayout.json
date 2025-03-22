@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Mohamed\\ITI\\Self-Study\\ASP .NET Core\\D06\\ASPDotNet_API_5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47A49245-4974-4541-AF49-A8D9FBB52E8B}|ITI_API_BL\\ITI_API_BL.csproj|e:\\mohamed\\iti\\self-study\\asp .net core\\d06\\aspdotnet_api_5\\iti_api_bl\\exceptions\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47A49245-4974-4541-AF49-A8D9FBB52E8B}|ITI_API_BL\\ITI_API_BL.csproj|solutionrelative:iti_api_bl\\exceptions\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47A49245-4974-4541-AF49-A8D9FBB52E8B}|ITI_API_BL\\ITI_API_BL.csproj|e:\\mohamed\\iti\\self-study\\asp .net core\\d06\\aspdotnet_api_5\\iti_api_bl\\validators\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47A49245-4974-4541-AF49-A8D9FBB52E8B}|ITI_API_BL\\ITI_API_BL.csproj|solutionrelative:iti_api_bl\\validators\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47A49245-4974-4541-AF49-A8D9FBB52E8B}|ITI_API_BL\\ITI_API_BL.csproj|e:\\mohamed\\iti\\self-study\\asp .net core\\d06\\aspdotnet_api_5\\iti_api_bl\\manager\\student\\mangerstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47A49245-4974-4541-AF49-A8D9FBB52E8B}|ITI_API_BL\\ITI_API_BL.csproj|solutionrelative:iti_api_bl\\manager\\student\\mangerstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47A49245-4974-4541-AF49-A8D9FBB52E8B}|ITI_API_BL\\ITI_API_BL.csproj|e:\\mohamed\\iti\\self-study\\asp .net core\\d06\\aspdotnet_api_5\\iti_api_bl\\dto\\common\\generalresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47A49245-4974-4541-AF49-A8D9FBB52E8B}|ITI_API_BL\\ITI_API_BL.csproj|solutionrelative:iti_api_bl\\dto\\common\\generalresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47A49245-4974-4541-AF49-A8D9FBB52E8B}|ITI_API_BL\\ITI_API_BL.csproj|e:\\mohamed\\iti\\self-study\\asp .net core\\d06\\aspdotnet_api_5\\iti_api_bl\\manager\\student\\imanagerstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47A49245-4974-4541-AF49-A8D9FBB52E8B}|ITI_API_BL\\ITI_API_BL.csproj|solutionrelative:iti_api_bl\\manager\\student\\imanagerstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{626D06E9-CBE8-4B93-8E05-C78882381E71}|ITI_API\\ITI_API.csproj|e:\\mohamed\\iti\\self-study\\asp .net core\\d06\\aspdotnet_api_5\\iti_api\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{626D06E9-CBE8-4B93-8E05-C78882381E71}|ITI_API\\ITI_API.csproj|solutionrelative:iti_api\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{626D06E9-CBE8-4B93-8E05-C78882381E71}|ITI_API\\ITI_API.csproj|e:\\mohamed\\iti\\self-study\\asp .net core\\d06\\aspdotnet_api_5\\iti_api\\iti_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{626D06E9-CBE8-4B93-8E05-C78882381E71}|ITI_API\\ITI_API.csproj|solutionrelative:iti_api\\iti_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47A49245-4974-4541-AF49-A8D9FBB52E8B}|ITI_API_BL\\ITI_API_BL.csproj|e:\\mohamed\\iti\\self-study\\asp .net core\\d06\\aspdotnet_api_5\\iti_api_bl\\iti_api_bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{47A49245-4974-4541-AF49-A8D9FBB52E8B}|ITI_API_BL\\ITI_API_BL.csproj|solutionrelative:iti_api_bl\\iti_api_bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47A49245-4974-4541-AF49-A8D9FBB52E8B}|ITI_API_BL\\ITI_API_BL.csproj|e:\\mohamed\\iti\\self-study\\asp .net core\\d06\\aspdotnet_api_5\\iti_api_bl\\bl_extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47A49245-4974-4541-AF49-A8D9FBB52E8B}|ITI_API_BL\\ITI_API_BL.csproj|solutionrelative:iti_api_bl\\bl_extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{626D06E9-CBE8-4B93-8E05-C78882381E71}|ITI_API\\ITI_API.csproj|e:\\mohamed\\iti\\self-study\\asp .net core\\d06\\aspdotnet_api_5\\iti_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{626D06E9-CBE8-4B93-8E05-C78882381E71}|ITI_API\\ITI_API.csproj|solutionrelative:iti_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Mohamed\\ITI\\Self-Study\\ASP .NET Core\\D06\\ASPDotNet_API_5\\ITI_API\\Program.cs",
+              "RelativeDocumentMoniker": "ITI_API\\Program.cs",
+              "ToolTip": "E:\\Mohamed\\ITI\\Self-Study\\ASP .NET Core\\D06\\ASPDotNet_API_5\\ITI_API\\Program.cs",
+              "RelativeToolTip": "ITI_API\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T17:14:05.319Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MangerStudent.cs",
+              "DocumentMoniker": "E:\\Mohamed\\ITI\\Self-Study\\ASP .NET Core\\D06\\ASPDotNet_API_5\\ITI_API_BL\\Manager\\Student\\MangerStudent.cs",
+              "RelativeDocumentMoniker": "ITI_API_BL\\Manager\\Student\\MangerStudent.cs",
+              "ToolTip": "E:\\Mohamed\\ITI\\Self-Study\\ASP .NET Core\\D06\\ASPDotNet_API_5\\ITI_API_BL\\Manager\\Student\\MangerStudent.cs",
+              "RelativeToolTip": "ITI_API_BL\\Manager\\Student\\MangerStudent.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCQAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T19:51:15.277Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ValidationException.cs",
+              "DocumentMoniker": "E:\\Mohamed\\ITI\\Self-Study\\ASP .NET Core\\D06\\ASPDotNet_API_5\\ITI_API_BL\\Exceptions\\ValidationException.cs",
+              "RelativeDocumentMoniker": "ITI_API_BL\\Exceptions\\ValidationException.cs",
+              "ToolTip": "E:\\Mohamed\\ITI\\Self-Study\\ASP .NET Core\\D06\\ASPDotNet_API_5\\ITI_API_BL\\Exceptions\\ValidationException.cs",
+              "RelativeToolTip": "ITI_API_BL\\Exceptions\\ValidationException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T20:03:33.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IManagerStudent.cs",
+              "DocumentMoniker": "E:\\Mohamed\\ITI\\Self-Study\\ASP .NET Core\\D06\\ASPDotNet_API_5\\ITI_API_BL\\Manager\\Student\\IManagerStudent.cs",
+              "RelativeDocumentMoniker": "ITI_API_BL\\Manager\\Student\\IManagerStudent.cs",
+              "ToolTip": "E:\\Mohamed\\ITI\\Self-Study\\ASP .NET Core\\D06\\ASPDotNet_API_5\\ITI_API_BL\\Manager\\Student\\IManagerStudent.cs",
+              "RelativeToolTip": "ITI_API_BL\\Manager\\Student\\IManagerStudent.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T19:56:57.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "E:\\Mohamed\\ITI\\Self-Study\\ASP .NET Core\\D06\\ASPDotNet_API_5\\ITI_API\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "ITI_API\\Controllers\\StudentController.cs",
+              "ToolTip": "E:\\Mohamed\\ITI\\Self-Study\\ASP .NET Core\\D06\\ASPDotNet_API_5\\ITI_API\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "ITI_API\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA1wCAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T19:53:54.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ITI_API",
+              "DocumentMoniker": "E:\\Mohamed\\ITI\\Self-Study\\ASP .NET Core\\D06\\ASPDotNet_API_5\\ITI_API\\ITI_API.csproj",
+              "RelativeDocumentMoniker": "ITI_API\\ITI_API.csproj",
+              "ToolTip": "E:\\Mohamed\\ITI\\Self-Study\\ASP .NET Core\\D06\\ASPDotNet_API_5\\ITI_API\\ITI_API.csproj",
+              "RelativeToolTip": "ITI_API\\ITI_API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-21T19:53:50.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ITI_API_BL",
+              "DocumentMoniker": "E:\\Mohamed\\ITI\\Self-Study\\ASP .NET Core\\D06\\ASPDotNet_API_5\\ITI_API_BL\\ITI_API_BL.csproj",
+              "RelativeDocumentMoniker": "ITI_API_BL\\ITI_API_BL.csproj",
+              "ToolTip": "E:\\Mohamed\\ITI\\Self-Study\\ASP .NET Core\\D06\\ASPDotNet_API_5\\ITI_API_BL\\ITI_API_BL.csproj",
+              "RelativeToolTip": "ITI_API_BL\\ITI_API_BL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-21T19:53:48.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GeneralResult.cs",
+              "DocumentMoniker": "E:\\Mohamed\\ITI\\Self-Study\\ASP .NET Core\\D06\\ASPDotNet_API_5\\ITI_API_BL\\DTO\\Common\\GeneralResult.cs",
+              "RelativeDocumentMoniker": "ITI_API_BL\\DTO\\Common\\GeneralResult.cs",
+              "ToolTip": "E:\\Mohamed\\ITI\\Self-Study\\ASP .NET Core\\D06\\ASPDotNet_API_5\\ITI_API_BL\\DTO\\Common\\GeneralResult.cs",
+              "RelativeToolTip": "ITI_API_BL\\DTO\\Common\\GeneralResult.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T19:46:41.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Validator.cs",
+              "DocumentMoniker": "E:\\Mohamed\\ITI\\Self-Study\\ASP .NET Core\\D06\\ASPDotNet_API_5\\ITI_API_BL\\Validators\\Validator.cs",
+              "RelativeDocumentMoniker": "ITI_API_BL\\Validators\\Validator.cs",
+              "ToolTip": "E:\\Mohamed\\ITI\\Self-Study\\ASP .NET Core\\D06\\ASPDotNet_API_5\\ITI_API_BL\\Validators\\Validator.cs",
+              "RelativeToolTip": "ITI_API_BL\\Validators\\Validator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T19:35:11.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BL_Extensions.cs",
+              "DocumentMoniker": "E:\\Mohamed\\ITI\\Self-Study\\ASP .NET Core\\D06\\ASPDotNet_API_5\\ITI_API_BL\\BL_Extensions.cs",
+              "RelativeDocumentMoniker": "ITI_API_BL\\BL_Extensions.cs",
+              "ToolTip": "E:\\Mohamed\\ITI\\Self-Study\\ASP .NET Core\\D06\\ASPDotNet_API_5\\ITI_API_BL\\BL_Extensions.cs",
+              "RelativeToolTip": "ITI_API_BL\\BL_Extensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T19:30:26.18Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a83394e3-39c2-4678-a3c8-364b69d78fd3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
