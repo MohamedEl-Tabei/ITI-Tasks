@@ -31,16 +31,6 @@
               "EditorCaption": ""
             }
           ]
-        },
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{a83394e3-39c2-4678-a3c8-364b69d78fd3}"
-            }
-          ]
         }
       ]
     }

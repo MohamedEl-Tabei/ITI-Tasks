@@ -1,0 +1,27 @@
+﻿@model List<Student>;
+<table class="table align-middle shadow table-hover">
+    <thead >
+        <tr class="table-success">
+            <th class="p-3 text-center" scope="col">Id</th>
+            <th class="p-3 text-center" scope="col">Name</th>
+            <th class="p-3 text-center" scope="col">Department</th>
+            <th class="p-3 text-center" scope="col">Email</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var student in Model)
+        {
+            <tr >
+                <th class="p-3 text-center" scope="row">
+                    <a asp-controller="Student" asp-action="Details" asp-route-id="@student.Id">@student.Id</a>
+                </th>
+                <td class="p-3 text-center">@student.Name</td>
+                <td class="p-3 text-center">@student.Department</td>
+                <td class="p-3 text-center">@student.Email</td>
+            </tr>
+
+        }
+        
+        
+    </tbody>
+</table>

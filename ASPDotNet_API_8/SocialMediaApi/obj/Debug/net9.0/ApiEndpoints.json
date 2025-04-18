@@ -1,0 +1,54 @@
+[
+  {
+    "ContainingType": "SocialMediaApi.Controllers.UserController",
+    "Method": "GetAllForAdmin",
+    "RelativePath": "api/User/ForAdminOnly",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SocialMediaApi.Controllers.UserController",
+    "Method": "GetAllForUser",
+    "RelativePath": "api/User/ForUser",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SocialMediaApi.Controllers.UserController",
+    "Method": "Login",
+    "RelativePath": "api/User/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "_user",
+        "Type": "SocialMediaApi.BL.DTO.User.UserLogin",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SocialMediaApi.Controllers.UserController",
+    "Method": "register",
+    "RelativePath": "api/User/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "_user",
+        "Type": "SocialMediaApi.BL.UserCreate",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

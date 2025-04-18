@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "E:\\Mohamed\\ITI\\ITI-Tasks\\EF_2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Mohamed\\ITI\\ITI-Tasks\\EF_2\\EF_2\\Migrations\\20250314131336_migration14.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EF_2\\Migrations\\20250314131336_migration14.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{411E1107-4F47-4CE1-81FB-EE6E99E1CE88}|EF_2\\EF_2.csproj|e:\\mohamed\\iti\\iti-tasks\\ef_2\\ef_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{411E1107-4F47-4CE1-81FB-EE6E99E1CE88}|EF_2\\EF_2.csproj|solutionrelative:ef_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{411E1107-4F47-4CE1-81FB-EE6E99E1CE88}|EF_2\\EF_2.csproj|e:\\mohamed\\iti\\iti-tasks\\ef_2\\ef_2\\context\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "EF_2\\Context\\MyContext.cs",
               "ToolTip": "E:\\Mohamed\\ITI\\ITI-Tasks\\EF_2\\EF_2\\Context\\MyContext.cs",
               "RelativeToolTip": "EF_2\\Context\\MyContext.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAzwCQAAABqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-14T11:50:20.885Z",
               "IsPinned": true,
@@ -37,14 +37,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "20250314131336_migration14.cs",
-              "DocumentMoniker": "E:\\Mohamed\\ITI\\ITI-Tasks\\EF_2\\EF_2\\Migrations\\20250314131336_migration14.cs",
-              "RelativeDocumentMoniker": "EF_2\\Migrations\\20250314131336_migration14.cs",
-              "ToolTip": "E:\\Mohamed\\ITI\\ITI-Tasks\\EF_2\\EF_2\\Migrations\\20250314131336_migration14.cs",
-              "RelativeToolTip": "EF_2\\Migrations\\20250314131336_migration14.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Mohamed\\ITI\\ITI-Tasks\\EF_2\\EF_2\\Program.cs",
+              "RelativeDocumentMoniker": "EF_2\\Program.cs",
+              "ToolTip": "E:\\Mohamed\\ITI\\ITI-Tasks\\EF_2\\EF_2\\Program.cs",
+              "RelativeToolTip": "EF_2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T13:13:37.796Z",
+              "WhenOpened": "2025-04-07T21:54:30.79Z",
               "EditorCaption": ""
             }
           ]

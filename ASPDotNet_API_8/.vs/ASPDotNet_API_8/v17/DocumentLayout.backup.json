@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Mohamed\\ITI\\ITI-Tasks\\ASPDotNet_API_8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6721493-95F2-46EF-95F1-85D1C336C6EA}|SocialMediaApi\\SocialMediaApi.csproj|e:\\mohamed\\iti\\iti-tasks\\aspdotnet_api_8\\socialmediaapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6721493-95F2-46EF-95F1-85D1C336C6EA}|SocialMediaApi\\SocialMediaApi.csproj|solutionrelative:socialmediaapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6721493-95F2-46EF-95F1-85D1C336C6EA}|SocialMediaApi\\SocialMediaApi.csproj|e:\\mohamed\\iti\\iti-tasks\\aspdotnet_api_8\\socialmediaapi\\socialmediaapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D6721493-95F2-46EF-95F1-85D1C336C6EA}|SocialMediaApi\\SocialMediaApi.csproj|solutionrelative:socialmediaapi\\socialmediaapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6721493-95F2-46EF-95F1-85D1C336C6EA}|SocialMediaApi\\SocialMediaApi.csproj|e:\\mohamed\\iti\\iti-tasks\\aspdotnet_api_8\\socialmediaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6721493-95F2-46EF-95F1-85D1C336C6EA}|SocialMediaApi\\SocialMediaApi.csproj|solutionrelative:socialmediaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Mohamed\\ITI\\ITI-Tasks\\ASPDotNet_API_8\\SocialMediaApi\\Program.cs",
+              "RelativeDocumentMoniker": "SocialMediaApi\\Program.cs",
+              "ToolTip": "E:\\Mohamed\\ITI\\ITI-Tasks\\ASPDotNet_API_8\\SocialMediaApi\\Program.cs",
+              "RelativeToolTip": "SocialMediaApi\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAADQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T09:56:45.885Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\Mohamed\\ITI\\ITI-Tasks\\ASPDotNet_API_8\\SocialMediaApi\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "SocialMediaApi\\Controllers\\UserController.cs",
+              "ToolTip": "E:\\Mohamed\\ITI\\ITI-Tasks\\ASPDotNet_API_8\\SocialMediaApi\\Controllers\\UserController.cs*",
+              "RelativeToolTip": "SocialMediaApi\\Controllers\\UserController.cs*",
+              "ViewState": "AgIAADkAAAAAAAAAAAAmwD8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T09:00:06.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SocialMediaApi.csproj",
+              "DocumentMoniker": "E:\\Mohamed\\ITI\\ITI-Tasks\\ASPDotNet_API_8\\SocialMediaApi\\SocialMediaApi.csproj",
+              "RelativeDocumentMoniker": "SocialMediaApi\\SocialMediaApi.csproj",
+              "ToolTip": "E:\\Mohamed\\ITI\\ITI-Tasks\\ASPDotNet_API_8\\SocialMediaApi\\SocialMediaApi.csproj",
+              "RelativeToolTip": "SocialMediaApi\\SocialMediaApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-26T09:00:00.189Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
